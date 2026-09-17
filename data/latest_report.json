@@ -1,49 +1,97 @@
 {
-  "generated_at": "2026-09-17T07:59:24Z",
-  "scope": "pre-owned non-fine / costume / fashion / gold-filled / sterling fashion",
-  "total_items": 0,
-  "queries_run": 5,
-  "tier_stats": {},
-  "per_query": [
-    {
-      "query": "costume jewelry brooch pre-owned",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
+  "generated_at": "2026-09-17T08:20:48.397739+00:00",
+  "total_rows": 106,
+  "sold_stats": {
+    "n": 0
+  },
+  "active_stats": {
+    "n": 90,
+    "min": 0.99,
+    "p25": 17.9,
+    "median": 28.38,
+    "p75": 49.97,
+    "max": 253.22,
+    "mean": 44.09
+  },
+  "by_query": {
+    "vintage costume jewelry brooch": {
+      "n": 30,
+      "sold": {
+        "n": 0
+      },
+      "active": {
+        "n": 30,
+        "min": 0.99,
+        "p25": 16.24,
+        "median": 39.99,
+        "p75": 58.0,
+        "max": 200.0,
+        "mean": 46.94
+      }
     },
-    {
-      "query": "costume jewelry necklace estate",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
+    "trifari necklace vintage": {
+      "n": 8,
+      "sold": {
+        "n": 0
+      },
+      "active": {
+        "n": 0
+      }
     },
-    {
-      "query": "gold filled necklace pre-owned",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "http_403;playwright:TargetClosedError:Page.goto: Page crashed\nCall log:\n  - navigating to \"https://www.ebay.com/sch/i.html?_nkw=gold+filled+necklace+pre-owned"
+    "corocraft brooch": {
+      "n": 8,
+      "sold": {
+        "n": 0
+      },
+      "active": {
+        "n": 0
+      }
     },
-    {
-      "query": "gold filled bracelet estate",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
+    "monet jewelry vintage": {
+      "n": 30,
+      "sold": {
+        "n": 0
+      },
+      "active": {
+        "n": 30,
+        "min": 12.99,
+        "p25": 27.0,
+        "median": 44.0,
+        "p75": 85.0,
+        "max": 253.22,
+        "mean": 65.18
+      }
     },
-    {
-      "query": "sterling silver fashion ring pre-owned",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
+    "sarah coventry brooch": {
+      "n": 30,
+      "sold": {
+        "n": 0
+      },
+      "active": {
+        "n": 30,
+        "min": 4.86,
+        "p25": 14.99,
+        "median": 19.99,
+        "p75": 24.99,
+        "max": 44.0,
+        "mean": 20.14
+      }
     }
+  },
+  "sources": [
+    "duckduckgo",
+    "ebay_active_http"
+  ],
+  "note": "sold=true comps via API; active=asking prices via cookie HTTP/stealth",
+  "backend_tally": {
+    "ebay_http": 3,
+    "ddg": 2
+  },
+  "queries": [
+    "vintage costume jewelry brooch",
+    "trifari necklace vintage",
+    "corocraft brooch",
+    "monet jewelry vintage",
+    "sarah coventry brooch"
   ]
 }
