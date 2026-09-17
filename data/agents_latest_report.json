@@ -1,0 +1,378 @@
+{
+  "generated_at": "2026-09-17T09:44:52.466219+00:00",
+  "system": "jewelry-agent-swarm",
+  "opencode_agents": [
+    "orchestrator",
+    "planner",
+    "scraper",
+    "scout",
+    "analyst",
+    "lister",
+    "publisher"
+  ],
+  "plan": {
+    "queries": [
+      "vintage trifari necklace",
+      "corocraft brooch signed",
+      "weiss rhinestone brooch",
+      "sarah coventry brooch"
+    ],
+    "subs": [
+      "Flipping",
+      "Reseller",
+      "ThriftStoreHauls",
+      "Jewelry",
+      "whatsthisworth",
+      "EstateSales"
+    ],
+    "priority": "high",
+    "rationale": "costume non-fine brand grid + seed expansion"
+  },
+  "total_rows": 200,
+  "with_images": 200,
+  "verdict_tally": {
+    "RESEARCH_ONLY": 4
+  },
+  "leaderboard": [
+    {
+      "rank": 1,
+      "query": "vintage trifari necklace",
+      "verdict": "RESEARCH_ONLY",
+      "score": 0,
+      "list_price": null,
+      "max_buy_cost": null,
+      "expected_net": null,
+      "brands": [
+        "Trifari"
+      ],
+      "n_comps": 0
+    },
+    {
+      "rank": 2,
+      "query": "corocraft brooch signed",
+      "verdict": "RESEARCH_ONLY",
+      "score": 0,
+      "list_price": null,
+      "max_buy_cost": null,
+      "expected_net": null,
+      "brands": [
+        "Coro",
+        "Corocraft"
+      ],
+      "n_comps": 0
+    },
+    {
+      "rank": 3,
+      "query": "weiss rhinestone brooch",
+      "verdict": "RESEARCH_ONLY",
+      "score": 0,
+      "list_price": null,
+      "max_buy_cost": null,
+      "expected_net": null,
+      "brands": [
+        "Weiss"
+      ],
+      "n_comps": 0
+    },
+    {
+      "rank": 4,
+      "query": "sarah coventry brooch",
+      "verdict": "RESEARCH_ONLY",
+      "score": 0,
+      "list_price": null,
+      "max_buy_cost": null,
+      "expected_net": null,
+      "brands": [
+        "Sarah Coventry"
+      ],
+      "n_comps": 0
+    }
+  ],
+  "action_queue": [],
+  "listings": [],
+  "image_gallery_sample": [
+    {
+      "title": "VINTAGE TRIFARI GOLD TONE BAMBOO LATTICE NECKLACE Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/tyAAAeSwqBdqDjEO/s-l500.webp",
+      "url": "https://www.ebay.com/itm/206287852851",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vtg Crown Trifari Tortoise Lucite Inlay Pendant Gold Tone Necklace Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/gO4AAOSwx~RnYGEm/s-l500.webp",
+      "url": "https://www.ebay.com/itm/296884802952",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage Trifari Gold Tone Faux Pearl Collar Necklace 14\u201d Quiet Luxury Estate Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/UQgAAeSwollqpkjv/s-l500.webp",
+      "url": "https://www.ebay.com/itm/267783880832",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage Trifari Textured Silvertone Choker Necklace in Excellent Condition Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/fLQAAeSwo-xqoeJb/s-l500.webp",
+      "url": "https://www.ebay.com/itm/800637962517",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "TRIFARI CROWN necklace vintage silvertone flat metal beads matte shiny DAMAGE Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/1fYAAeSw9ABqaTt3/s-l500.webp",
+      "url": "https://www.ebay.com/itm/177307766810",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Crown Trifari Silvertone Crystal Rhinestone Slide Pendant 16\" Necklace Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/yEMAAeSwu55pofmM/s-l500.webp",
+      "url": "https://www.ebay.com/itm/177903671364",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Crown Trifari Necklace Vntg. Open Scroll Keys. Silvertone Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/wa4AAeSwdcVoH6C1/s-l500.webp",
+      "url": "https://www.ebay.com/itm/198440116506",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "New Listing Vintage Crown Trifari Goldtone Flower And Pearl Necklace 16 In Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/LDAAAeSw25dqquKT/s-l500.webp",
+      "url": "https://www.ebay.com/itm/267787464474",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage Trifari Gold Tone Twisted Rope Faux Seed Pearl Bead Chain Necklace Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/0m4AAeSwDw1qoahc/s-l500.webp",
+      "url": "https://www.ebay.com/itm/237059835134",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Crown Trifari Necklace Vintage Faux Pearl & Rhinestone Silver-Tone *READ* Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/l1MAAeSwFuJqY7e3/s-l500.webp",
+      "url": "https://www.ebay.com/itm/800656678989",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage 1950's Trifari Faux Diamond Necklace Excellent Condition Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/sKgAAeSws~RqoZN0/s-l500.webp",
+      "url": "https://www.ebay.com/itm/298659552785",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage  Trifari Crown  Circle Modern Pendant Necklace 18\" (292) Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/uRkAAOSw0zVkfUIZ/s-l500.webp",
+      "url": "https://www.ebay.com/itm/166149923794",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage TRIFARI Leo Lion Zodiac PENDANT Charm Orb Sphere Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/ucEAAeSwo-xqoXvy/s-l500.webp",
+      "url": "https://www.ebay.com/itm/168676195246",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage Signed Crown Trifari Gold Tone Pendant Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/qXEAAeSwNlxqRCyA/s-l500.webp",
+      "url": "https://www.ebay.com/itm/267782422162",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage 1990s Trifari Gold Tone Puffy Heart Chain Necklace 22in 90s jewelry Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/NJ4AAeSwHg9qWniQ/s-l500.webp",
+      "url": "https://www.ebay.com/itm/287468589909",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "VTG TRIFARI Crown GoldTone Double Chain Necklace Pendant 1955-1969 RS37 Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/82oAAeSwMm1qMIMr/s-l500.webp",
+      "url": "https://www.ebay.com/itm/407204122563",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Trifari Signed Silver Tone Crystal Rhinestone Round Slide Pendant Necklace Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/OvAAAOSw2xVh3iWc/s-l500.webp",
+      "url": "https://www.ebay.com/itm/187265566938",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage/Now Gold Tone Chain Lot Trifari Pendant (12) Pieces Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/mtMAAeSwCNFqns3K/s-l500.webp",
+      "url": "https://www.ebay.com/itm/168671392194",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Trifari Black Beaded & Gold Tone Necklace Pendant Choker 16\" Statement Vintage Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/kyAAAeSwEyBovgzp/s-l500.webp",
+      "url": "https://www.ebay.com/itm/226963138127",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "1954 Vtg TRIFARI DOUBLE STRAND NECKLACE Textured Gold Tone Collar 14-16\u201d Runway Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/IIgAAeSwdJpqbOfh/s-l500.webp",
+      "url": "https://www.ebay.com/itm/128039504365",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage Trifari Black And Gold Choker Necklace Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/5qYAAeSwb1Zpz09c/s-l500.webp",
+      "url": "https://www.ebay.com/itm/206186401701",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage Crown TRIFARI PAT. PEND. Alfred Philippe White Bead Flower Necklace Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/GMoAAeSwEphqkYUg/s-l500.webp",
+      "url": "https://www.ebay.com/itm/198628535308",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage TRIFARI Textured Gold Tone Wide Ribbon Link Collar Necklace Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/CbgAAeSwww5qc35X/s-l500.webp",
+      "url": "https://www.ebay.com/itm/800576245719",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "1960s Mid Century Modern Trifari Link Necklace Silver Tone 16\" Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/jZgAAOSwkLlnUJWM/s-l500.webp",
+      "url": "https://www.ebay.com/itm/186825508747",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage Silver Tone CROWN TRIFARI Teal Belly OWL Pendant & Pin Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/Q6MAAeSwLDppyxIz/s-l500.webp",
+      "url": "https://www.ebay.com/itm/406815742313",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Trifari TM Rope Chain Necklace Gold Tone Black Woven Twisted 18 Inch Vintage Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/wogAAeSwKQtoN2Gd/s-l500.webp",
+      "url": "https://www.ebay.com/itm/177133929400",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage Trifari Zodiac Taurus clear Intaglio Gold Tone Pendant  Only No Chain Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/xjQAAeSwGjRqAQF5/s-l500.webp",
+      "url": "https://www.ebay.com/itm/257502298001",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Crown Trifari Vintage Silver Tone Ribbon Choker Necklace (4031) 14\u201d-16\u201d Long Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/BmQAAeSwLcNqqYb9/s-l500.webp",
+      "url": "https://www.ebay.com/itm/278378173069",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "VTG TRIFARI 18\" adjTo choker silver tone metal pendant multi bead chain Necklace Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/5P8AAeSwvA9qV6N0/s-l500.webp",
+      "url": "https://www.ebay.com/itm/820073612396",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Crown Trifari Vintage AQUARIUS Zodiac Intaglio Pendant Necklace Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/314AAeSwVZ5qlEa8/s-l500.webp",
+      "url": "https://www.ebay.com/itm/398374023353",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Crown Trifari silvertone rope necklace, 16\", vintage Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/xF8AAeSwDaxqqVmf/s-l500.webp",
+      "url": "https://www.ebay.com/itm/188934071456",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vtg Trifari tubogas Omega necklace gold tone 6\" choker Egyptian Revival signed Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/j70AAeSwqlBqjh~I/s-l500.webp",
+      "url": "https://www.ebay.com/itm/336761561913",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Rare Vintage Red Carved Resin Fruit Kunio Matsumoto For Trifari Necklace Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/p88AAOSwm-tmrESp/s-l500.webp",
+      "url": "https://www.ebay.com/itm/326219774067",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage Trifari Brushed Florentine Finish Gold Tone Bead Multi Strand Necklace Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/etoAAOSwKcJhBIqV/s-l500.webp",
+      "url": "https://www.ebay.com/itm/334095727744",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Trifari TM Gold Tone Necklace Chunky Chain Thick Double Link Shiny Vintage Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/umkAAOSw~2RmrnwO/s-l500.webp",
+      "url": "https://www.ebay.com/itm/145929353157",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage 2 TRIFARI Necklaces Glass Pearl Gold Tone Panel Collar Missing Pearls Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/-YcAAeSw4kFqpe8v/s-l500.webp",
+      "url": "https://www.ebay.com/itm/137730465137",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage Trifari Yellow Gold Tone Floral Enamel Cable Chain Necklace 16\" Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/5UoAAeSwDZhqqL51/s-l500.webp",
+      "url": "https://www.ebay.com/itm/398395846681",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Trifari Vintage Alfred Philippe Garden Of Eden Serpent Snake Figure Necklace Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/4SAAAeSwWEVqoiBn/s-l500.webp",
+      "url": "https://www.ebay.com/itm/800638873137",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage Crown Trifari Gold Tone Ornate Filigree Leaf Link Necklace Rare Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/vgAAAeSw14xqn3nH/s-l500.webp",
+      "url": "https://www.ebay.com/itm/398371600805",
+      "price": null,
+      "platform": "ebay"
+    },
+    {
+      "title": "Vintage TRIFARI Necklace NWT Cream Enamel Starfish Seashell Gold Tone 36\" Opens in a new window or tab",
+      "image_url": "https://i.ebayimg.com/images/g/V9kAAeSwjZxqdsU1/s-l500.webp",
+      "url": "https://www.ebay.com/itm/227467511854",
+      "price": null,
+      "platform": "ebay"
+    }
+  ],
+  "price_stats": {
+    "n": 0
+  }
+}
