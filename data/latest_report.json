@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-09-17T07:43:05Z",
+  "scope": "pre-owned non-fine / costume / fashion / gold-filled / sterling fashion",
+  "total_items": 0,
+  "queries_run": 5,
+  "tier_stats": {},
+  "per_query": [
+    {
+      "query": "costume jewelry brooch pre-owned",
+      "method": "ebay_http",
+      "fetched": 0,
+      "kept_non_fine": 0,
+      "dropped_fine": 0,
+      "error": "http_403"
+    },
+    {
+      "query": "costume jewelry necklace estate",
+      "method": "ebay_http",
+      "fetched": 0,
+      "kept_non_fine": 0,
+      "dropped_fine": 0,
+      "error": "http_403"
+    },
+    {
+      "query": "gold filled necklace pre-owned",
+      "method": "ebay_http",
+      "fetched": 0,
+      "kept_non_fine": 0,
+      "dropped_fine": 0,
+      "error": "http_403"
+    },
+    {
+      "query": "gold filled bracelet estate",
+      "method": "ebay_http",
+      "fetched": 0,
+      "kept_non_fine": 0,
+      "dropped_fine": 0,
+      "error": "http_403"
+    },
+    {
+      "query": "sterling silver fashion ring pre-owned",
+      "method": "ebay_http",
+      "fetched": 0,
+      "kept_non_fine": 0,
+      "dropped_fine": 0,
+      "error": "http_403"
+    }
+  ]
+}
