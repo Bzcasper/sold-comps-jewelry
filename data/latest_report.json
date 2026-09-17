@@ -1,49 +1,63 @@
 {
-  "generated_at": "2026-09-17T07:59:24Z",
-  "scope": "pre-owned non-fine / costume / fashion / gold-filled / sterling fashion",
-  "total_items": 0,
-  "queries_run": 5,
-  "tier_stats": {},
-  "per_query": [
-    {
-      "query": "costume jewelry brooch pre-owned",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
+  "generated_at": "2026-09-17T08:16:48.822792+00:00",
+  "total_rows": 48,
+  "sold_stats": {
+    "n": 0
+  },
+  "active_stats": {
+    "n": 48,
+    "min": 7.0,
+    "p25": 40.0,
+    "median": 74.99,
+    "p75": 132.98,
+    "max": 3500.0,
+    "mean": 215.64
+  },
+  "by_query": {
+    "vintage bakelite bangle": {
+      "sold": {
+        "n": 0
+      },
+      "active": {
+        "n": 24,
+        "min": 15.0,
+        "p25": 40.0,
+        "median": 65.0,
+        "p75": 109.99,
+        "max": 675.0,
+        "mean": 94.74
+      },
+      "n_rows": 24
     },
-    {
-      "query": "costume jewelry necklace estate",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "gold filled necklace pre-owned",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "http_403;playwright:TargetClosedError:Page.goto: Page crashed\nCall log:\n  - navigating to \"https://www.ebay.com/sch/i.html?_nkw=gold+filled+necklace+pre-owned"
-    },
-    {
-      "query": "gold filled bracelet estate",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "sterling silver fashion ring pre-owned",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
+    "corocraft brooch": {
+      "sold": {
+        "n": 0
+      },
+      "active": {
+        "n": 24,
+        "min": 7.0,
+        "p25": 42.89,
+        "median": 104.5,
+        "p75": 425.0,
+        "max": 3500.0,
+        "mean": 336.54
+      },
+      "n_rows": 24
     }
+  },
+  "sources": [
+    "ebay_active_stealth"
+  ],
+  "note": "sale_type=sold are true completed sales (API). sale_type=active are current asking prices from stealth eBay browse. Use sold for comps; active for market depth / list-price bands.",
+  "backend_tally": {
+    "ebay_active_stealth": 2
+  },
+  "queries": [
+    "vintage costume jewelry brooch lot",
+    "signed costume jewelry necklace",
+    "vintage bakelite bangle",
+    "corocraft brooch",
+    "trifari necklace vintage",
+    "monet jewelry set vintage"
   ]
 }
