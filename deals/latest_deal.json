@@ -1,0 +1,214 @@
+{
+  "generated_at": "2026-09-17T09:06:52.410949+00:00",
+  "system": "jewelry-deal-desk-crawl4ai",
+  "query": "weiss rhinestone brooch",
+  "cost_basis": 8.0,
+  "scraper": "crawl4ai+http_fallback",
+  "proxy_enabled": false,
+  "decision": {
+    "query": "weiss rhinestone brooch",
+    "cost_basis": 8.0,
+    "verdict": "STRONG_LIST",
+    "list_price": 42.18,
+    "list_price_low": 25.74,
+    "list_price_high": 65.0,
+    "max_buy_cost": 23.7,
+    "expected_net": 27.7,
+    "expected_margin_pct": 3.462,
+    "fee_at_list": 7.48,
+    "comp_basis": "active",
+    "sold_stats": {
+      "n": 0
+    },
+    "active_stats": {
+      "n": 40,
+      "min": 4.25,
+      "p25": 25.74,
+      "median": 43.48,
+      "p75": 65.0,
+      "max": 97.0,
+      "mean": 46.56
+    },
+    "reasons": [
+      "basis=active sold_n=0 active_n=40",
+      "anchor $43.48 \u2192 list $42.18 (p25\u2013p75 $25.74\u2013$65.00)",
+      "fees\u2248$7.48 net\u2248$35.70 before cost",
+      "cost $8.00 \u2192 profit $27.70 (346.2%)"
+    ],
+    "n_comps": 40
+  },
+  "listing": {
+    "title": "Vintage Weiss Rhinestone Brooch Costume Jewelry Pin",
+    "description": "Vintage Weiss Rhinestone Brooch Costume Jewelry Pin\\n\\n\u2022 Style cues: Weiss\\n\u2022 Pre-owned vintage / costume jewelry \u2014 non-fine\\n\u2022 Inspected; see photos for condition, clasp, stones\\n\u2022 Ships fast from US\\n\u2022 Collectors, restyle, or gift\\n\\nCONDITION\\nPre-owned. Photos are the item.\\n\\nPRICING\\nFrom recent comps.\\n\\nSHIPPING\\nTracked.",
+    "item_specifics": {
+      "Brand": "Weiss",
+      "Style": "Vintage",
+      "Type": "Brooch/Pin",
+      "Material": "Costume",
+      "Condition": "Pre-owned \u2014 see photos"
+    },
+    "tags": [
+      "vintage",
+      "costume jewelry",
+      "estate",
+      "weiss",
+      "rhinestone",
+      "brooch",
+      "collectible"
+    ],
+    "pricing_strategy": {
+      "format": "Buy It Now + Best Offer",
+      "start_price": 42.18,
+      "accept_offers_below": 37.12,
+      "duration_days": 7,
+      "promoted_listings_ad_rate_pct": 2.0
+    },
+    "category_hint": "Jewelry & Watches > Fashion Jewelry"
+  },
+  "comps_sample": [
+    {
+      "title": "New Listing Vintage WEISS Christmas Wreath Brooch Enamel Holly Berry Gold Bow Pin Signed",
+      "price": 44.99,
+      "url": "https://www.ebay.com/itm/198646846060",
+      "condition": "Weiss",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "Vintage WEISS Christmas Tree Brooch Multicolor Rhinestone Gold Tone Signed Pin",
+      "price": 89.59,
+      "url": "https://www.ebay.com/itm/336788609255",
+      "condition": "Weiss",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "Vintage Holiday Rhinestone Christmas Tree Gold-Tone Sweater Clip Unsigned Weiss?",
+      "price": 84.95,
+      "url": "https://www.ebay.com/itm/257636886149",
+      "condition": "Pre-Owned",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "Vintage 1950s Era Weiss-Esque Rhinestone Christmas Tree Brooch Pin",
+      "price": 25.74,
+      "url": "https://www.ebay.com/itm/206093986115",
+      "condition": "Pre-Owned",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "Vintage Signed WEISS Multi-colored  Rhinestone Christmas Tree Candle Brooch/pin",
+      "price": 75.0,
+      "url": "https://www.ebay.com/itm/377458463651",
+      "condition": "Weiss",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "WEISS Signed Crystal Vintage 3 Candle Christmas Tree Pin Brooch Rhinestones",
+      "price": 49.99,
+      "url": "https://www.ebay.com/itm/158282006624",
+      "condition": "Weiss",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "VINTAGE WEISS CHRISTMAS TREE BROOCH PIN RHINESTONE GARLAND HTF BOOK PIECE 38",
+      "price": 89.0,
+      "url": "https://www.ebay.com/itm/257704347368",
+      "condition": "Weiss",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "Vintage Weiss Christmas Tree Brooch Signed Rhinestone Pin AS IS",
+      "price": 84.99,
+      "url": "https://www.ebay.com/itm/336681471516",
+      "condition": "Weiss",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "New Listing Vintage Brooch Rhinestone Weiss Aurora Borealis Pin No Chips Or Missing Gems",
+      "price": 42.0,
+      "url": "https://www.ebay.com/itm/307183002606",
+      "condition": "Weiss",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "Weiss Sunflower Brooch Beautiful Cond,  Missing Pin On Back See Pics",
+      "price": 69.99,
+      "url": "https://www.ebay.com/itm/226935962610",
+      "condition": "Weiss",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "Old Weiss Rhinestone Brooch Pin & Clip Earrings Set Hot Pink w/Enamel Daisies",
+      "price": 85.0,
+      "url": "https://www.ebay.com/itm/188165136855",
+      "condition": "Weiss",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "WEISS SIGNED Vintage Brooch Flower  Rhinestone Flower Tulip",
+      "price": 28.0,
+      "url": "https://www.ebay.com/itm/355263500591",
+      "condition": "Weiss",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "VTG Weiss Pink Rivolli Rhinestone Brooch & Clip Earrings Set Large",
+      "price": 84.99,
+      "url": "https://www.ebay.com/itm/278359230718",
+      "condition": "Weiss",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "Vintage Large Rhinestone Apple Weiss Fruit Pin Brooch Mid Century Jewelry",
+      "price": 9.99,
+      "url": "https://www.ebay.com/itm/287575302899",
+      "condition": "Weiss",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    },
+    {
+      "title": "Vintage signed WEISS Rhinestone BUTTERFLY Brooch Purple/Black, Juliana style",
+      "price": 65.0,
+      "url": "https://www.ebay.com/itm/358311813849",
+      "condition": "Weiss",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "weiss rhinestone brooch"
+    }
+  ],
+  "comps_count": 40,
+  "action_checklist": [
+    "Verdict: STRONG_LIST",
+    "List at $42.18",
+    "Max acquisition $23.7",
+    "Paste title/description into eBay",
+    "6\u20138 photos",
+    "BIN + Best Offer"
+  ]
+}
