@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-09-17T09:07:18.892537+00:00",
+  "system": "jewelry-deal-desk-crawl4ai",
+  "query": "sarah coventry brooch",
+  "cost_basis": 8.0,
+  "scraper": "crawl4ai+http_fallback",
+  "proxy_enabled": false,
+  "decision": {
+    "query": "sarah coventry brooch",
+    "cost_basis": 8.0,
+    "verdict": "HOLD",
+    "list_price": 9.99,
+    "list_price_low": 8.0,
+    "list_price_high": 14.0,
+    "max_buy_cost": 0.0,
+    "expected_net": 0.34,
+    "expected_margin_pct": 0.043,
+    "fee_at_list": 2.65,
+    "comp_basis": "active",
+    "sold_stats": {
+      "n": 0
+    },
+    "active_stats": {
+      "n": 40,
+      "min": 1.99,
+      "p25": 8.0,
+      "median": 10.0,
+      "p75": 14.0,
+      "max": 59.98,
+      "mean": 12.12
+    },
+    "reasons": [
+      "basis=active sold_n=0 active_n=40",
+      "anchor $10.00 \u2192 list $9.99 (p25\u2013p75 $8.00\u2013$14.00)",
+      "fees\u2248$2.65 net\u2248$8.34 before cost",
+      "cost $8.00 \u2192 profit $0.34 (4.3%)"
+    ],
+    "n_comps": 40
+  },
+  "listing": {
+    "title": "Vintage Sarah Coventry Brooch Costume Jewelry Pin",
+    "description": "Vintage Sarah Coventry Brooch Costume Jewelry Pin\\n\\n\u2022 Style cues: Sarah Coventry\\n\u2022 Pre-owned vintage / costume jewelry \u2014 non-fine\\n\u2022 Inspected; see photos for condition, clasp, stones\\n\u2022 Ships fast from US\\n\u2022 Collectors, restyle, or gift\\n\\nCONDITION\\nPre-owned. Photos are the item.\\n\\nPRICING\\nFrom recent comps.\\n\\nSHIPPING\\nTracked.",
+    "item_specifics": {
+      "Brand": "Sarah Coventry",
+      "Style": "Vintage",
+      "Type": "Brooch/Pin",
+      "Material": "Costume",
+      "Condition": "Pre-owned \u2014 see photos"
+    },
+    "tags": [
+      "vintage",
+      "costume jewelry",
+      "estate",
+      "sarah coventry",
+      "sarah",
+      "coventry",
+      "brooch",
+      "collectible"
+    ],
+    "pricing_strategy": {
+      "format": "Buy It Now + Best Offer",
+      "start_price": 9.99,
+      "accept_offers_below": 8.79,
+      "duration_days": 7,
+      "promoted_listings_ad_rate_pct": 0.0
+    },
+    "category_hint": "Jewelry & Watches > Fashion Jewelry"
+  },
+  "comps_sample": [
+    {
+      "title": "VTG SARAH COV PENDANT Brooch Pin GRAPES OR LEAF 1 RHINESTONE MISS silver tone",
+      "price": 10.01,
+      "url": "https://www.ebay.com/itm/820112689216",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "VTG SARAH COV COVENTRY PENDANT Brooch Pin GRAPE LEAF ? AB RHINESTONE silver tone",
+      "price": 18.64,
+      "url": "https://www.ebay.com/itm/377491372202",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "VTG 1962 Sarah Coventry PETA-LURE Gold Tone Flower Brooch Pin",
+      "price": 8.0,
+      "url": "https://www.ebay.com/itm/127971134744",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "Vintage Sarah Coventry Filigree Maple Leaf Pin Brooch  Silver Plated Fabulous",
+      "price": 17.87,
+      "url": "https://www.ebay.com/itm/168514522563",
+      "condition": "Pre-Owned",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "VTG SARAH COV COVENTRY BIG CHRISTMAS REINDEER FLOWER Brooch Pin blac silver tone",
+      "price": 8.13,
+      "url": "https://www.ebay.com/itm/377491808174",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "1968 Sarah Coventry Ocean Star faux turquoise beads faux pearl gold tone",
+      "price": 4.95,
+      "url": "https://www.ebay.com/itm/820102493418",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "Sarah Cov #115 -3 Silvertone Brooch and Pendent",
+      "price": 3.0,
+      "url": "https://www.ebay.com/itm/336787314573",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "Vintage Sarah Coventry Bumble Bee Brooch Bug Pin Gold Tone Signed Jewelry",
+      "price": 9.0,
+      "url": "https://www.ebay.com/itm/257447199192",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "Brooch Letter C Signed Sarah Coventry Gold Tone Alphabet Letter C Vintage",
+      "price": 8.88,
+      "url": "https://www.ebay.com/itm/137315836818",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "Vintage Sarah Coventry Brooch / Vintage Pin Gold Tone Bumble Bee",
+      "price": 12.74,
+      "url": "https://www.ebay.com/itm/406560617678",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "Vintage Lot Sarah Coventry Brooches 7 Pcs",
+      "price": 15.0,
+      "url": "https://www.ebay.com/itm/800637011331",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "Vintage Blue Champagne Rhinestone Brooch Earrings Necklace 1958 Signed 4 Repair",
+      "price": 25.0,
+      "url": "https://www.ebay.com/itm/327220655577",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "Vintage Sarah Coventry  \"Fantasy Flower\" Brooch Large Faux Pearl Textured Nice!",
+      "price": 5.0,
+      "url": "https://www.ebay.com/itm/257735143282",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "Vintage Brooch Pin SIGNED SARAH COVENTRY COV Silver Floral Openwork Floral 17",
+      "price": 7.49,
+      "url": "https://www.ebay.com/itm/137456738735",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    },
+    {
+      "title": "Vintage Sarah Coventry Pin ~ \"Mr. Sea Gull\" ~ 1974",
+      "price": 2.99,
+      "url": "https://www.ebay.com/itm/267777844319",
+      "condition": "Sarah Coventry",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "sarah coventry brooch"
+    }
+  ],
+  "comps_count": 40,
+  "action_checklist": [
+    "Verdict: HOLD",
+    "List at $9.99",
+    "N/A",
+    "Paste title/description into eBay",
+    "6\u20138 photos",
+    "BIN + Best Offer"
+  ]
+}
