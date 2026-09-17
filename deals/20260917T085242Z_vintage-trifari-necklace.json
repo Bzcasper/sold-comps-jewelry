@@ -1,0 +1,204 @@
+{
+  "generated_at": "2026-09-17T08:52:40.932724+00:00",
+  "system": "jewelry-deal-desk-crawl4ai",
+  "query": "vintage trifari necklace",
+  "cost_basis": 8.0,
+  "scraper": "crawl4ai+http_fallback",
+  "proxy_enabled": false,
+  "decision": {
+    "query": "vintage trifari necklace",
+    "cost_basis": 8.0,
+    "verdict": "RESEARCH_ONLY",
+    "list_price": null,
+    "list_price_low": null,
+    "list_price_high": null,
+    "max_buy_cost": null,
+    "expected_net": null,
+    "expected_margin_pct": null,
+    "fee_at_list": null,
+    "comp_basis": "none",
+    "sold_stats": {
+      "n": 0
+    },
+    "active_stats": {
+      "n": 0
+    },
+    "reasons": [
+      "Insufficient comps \u2014 check proxy/cookies or sold API key"
+    ],
+    "n_comps": 40
+  },
+  "listing": {
+    "title": "Vintage Trifari Necklace Costume Jewelry",
+    "description": "Vintage Trifari Necklace Costume Jewelry\\n\\n\u2022 Style cues: Trifari\\n\u2022 Pre-owned vintage / costume jewelry \u2014 non-fine\\n\u2022 Inspected; see photos for condition, clasp, stones\\n\u2022 Ships fast from US\\n\u2022 Collectors, restyle, or gift\\n\\nCONDITION\\nPre-owned. Photos are the item.\\n\\nPRICING\\nFrom recent comps.\\n\\nSHIPPING\\nTracked.",
+    "item_specifics": {
+      "Brand": "Trifari",
+      "Style": "Vintage",
+      "Type": "Necklace",
+      "Material": "Costume",
+      "Condition": "Pre-owned \u2014 see photos"
+    },
+    "tags": [
+      "vintage",
+      "costume jewelry",
+      "estate",
+      "trifari",
+      "necklace",
+      "collectible"
+    ],
+    "pricing_strategy": {
+      "format": "Buy It Now + Best Offer",
+      "start_price": null,
+      "accept_offers_below": null,
+      "duration_days": 7,
+      "promoted_listings_ad_rate_pct": 0.0
+    },
+    "category_hint": "Jewelry & Watches > Fashion Jewelry"
+  },
+  "comps_sample": [
+    {
+      "title": "Vintage Trifari Gold Tone Structural Bib Necklace textured link 80s 90s Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/358804392367",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Crown trifari gold tone long necklace 44\u201d Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/358115784955",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vintage Trifari Zodiac Intaglio Scorpio Scorpion Pendant Necklace Gold Tone Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/206299187755",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vintage Signed Trifari Gold Tone Necklace Faux Pearl Rhinestone Mid Century Rare Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/318048985792",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vintage Trifari chocked, necklace, goldtone with rhinestone Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/257741371952",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vintage Gold Tone Rosette Love Knot Chain Necklace 12.5\" Unsigned Trifari Style Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/336796910774",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vintage Trifari Black Cabochon & Crystal Ribbon Choker Necklace Gold Plated 16\" Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/336797268961",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vtg. Trifari Textured White Bead Collar Necklace Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/398397425863",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vintage Trifari Goldtone Necklace 15\" Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/158282673855",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "\u2728Vintage Crown Trifari Mid Century Modernist Gold Tone Geometric Pendant Necklac Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/287588379637",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Trifari Station Necklace Silver Tone 16 in Length Vintage Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/307183212260",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Trifari Alfred Philippe Faux Coral Oval Link Lucite Necklace Signed Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/336797462577",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Stunning vintage Trifari necklace goldtone choker necklace Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/137728616760",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Crown Trifari Necklace Birthday Ribbon Choker Faux Pearl Silver Tone 15\u201d VTG Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/137700412512",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vintage Crown Trifari Brushed Gold Toned Leaf Design Necklace Choker With Pearl Opens in a new window or tab",
+      "price": null,
+      "url": "https://www.ebay.com/itm/178222091495",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    }
+  ],
+  "comps_count": 40,
+  "action_checklist": [
+    "Verdict: RESEARCH_ONLY",
+    "No list price",
+    "N/A",
+    "Paste title/description into eBay",
+    "6\u20138 photos",
+    "BIN + Best Offer"
+  ]
+}
