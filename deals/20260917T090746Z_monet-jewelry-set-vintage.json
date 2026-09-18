@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-09-17T09:07:45.258928+00:00",
+  "system": "jewelry-deal-desk-crawl4ai",
+  "query": "monet jewelry set vintage",
+  "cost_basis": 8.0,
+  "scraper": "crawl4ai+http_fallback",
+  "proxy_enabled": false,
+  "decision": {
+    "query": "monet jewelry set vintage",
+    "cost_basis": 8.0,
+    "verdict": "STRONG_LIST",
+    "list_price": 40.25,
+    "list_price_low": 26.0,
+    "list_price_high": 72.0,
+    "max_buy_cost": 22.06,
+    "expected_net": 26.06,
+    "expected_margin_pct": 3.257,
+    "fee_at_list": 7.19,
+    "comp_basis": "active",
+    "sold_stats": {
+      "n": 0
+    },
+    "active_stats": {
+      "n": 40,
+      "min": 4.88,
+      "p25": 26.0,
+      "median": 41.5,
+      "p75": 72.0,
+      "max": 213.5,
+      "mean": 52.72
+    },
+    "reasons": [
+      "basis=active sold_n=0 active_n=40",
+      "anchor $41.50 \u2192 list $40.25 (p25\u2013p75 $26.00\u2013$72.00)",
+      "fees\u2248$7.19 net\u2248$34.06 before cost",
+      "cost $8.00 \u2192 profit $26.06 (325.7%)"
+    ],
+    "n_comps": 40
+  },
+  "listing": {
+    "title": "Vintage Monet Jewelry Set Vintage Costume Jewelry",
+    "description": "Vintage Monet Jewelry Set Vintage Costume Jewelry\\n\\n\u2022 Style cues: Monet, Napier\\n\u2022 Pre-owned vintage / costume jewelry \u2014 non-fine\\n\u2022 Inspected; see photos for condition, clasp, stones\\n\u2022 Ships fast from US\\n\u2022 Collectors, restyle, or gift\\n\\nCONDITION\\nPre-owned. Photos are the item.\\n\\nPRICING\\nFrom recent comps.\\n\\nSHIPPING\\nTracked.",
+    "item_specifics": {
+      "Brand": "Monet",
+      "Style": "Vintage",
+      "Type": "Jewelry",
+      "Material": "Costume",
+      "Condition": "Pre-owned \u2014 see photos"
+    },
+    "tags": [
+      "vintage",
+      "costume jewelry",
+      "estate",
+      "monet",
+      "napier",
+      "jewelry",
+      "set",
+      "collectible"
+    ],
+    "pricing_strategy": {
+      "format": "Buy It Now + Best Offer",
+      "start_price": 40.25,
+      "accept_offers_below": 35.42,
+      "duration_days": 7,
+      "promoted_listings_ad_rate_pct": 2.0
+    },
+    "category_hint": "Jewelry & Watches > Fashion Jewelry"
+  },
+  "comps_sample": [
+    {
+      "title": "Vintage MONET Gold Tone White Enamel Choker Necklace & Bracelet Set Lot",
+      "price": 40.0,
+      "url": "https://www.ebay.com/itm/147280762686",
+      "condition": "Monet",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "Vintage  Monet  Set Gold Tone Double Chain Parure Necklace Earrings Bracelet",
+      "price": 72.0,
+      "url": "https://www.ebay.com/itm/820102818972",
+      "condition": "Monet",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "Vintage Signed Joan Rivers Gold Tone Red/ Black Lady Bug Bracelet & Earrings Set",
+      "price": 74.99,
+      "url": "https://www.ebay.com/itm/336770583973",
+      "condition": "Monet",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "Gorgouse Vintage Monet Gold Ton Set of Clip On Earrings And Brooch",
+      "price": 17.5,
+      "url": "https://www.ebay.com/itm/366662932436",
+      "condition": "Monet",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "Vintage Signed Monet Necklace Earrings Set Cream Enamel Gold Tone 30\"L Clips",
+      "price": 34.99,
+      "url": "https://www.ebay.com/itm/127812791081",
+      "condition": "Monet",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "Vintage Lot 10 Pairs Gold Tone Earrings  4 Monet 1 Napier",
+      "price": 18.0,
+      "url": "https://www.ebay.com/itm/267783553870",
+      "condition": "Napier",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "Monet Vintage Gold-Tone Necklace and Bracelet",
+      "price": 85.0,
+      "url": "https://www.ebay.com/itm/366652556711",
+      "condition": "Monet",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "Vintage Monet Gold Tone Curb Link Designer Necklace Bracelet Set 1980s Signed",
+      "price": 35.0,
+      "url": "https://www.ebay.com/itm/236685139342",
+      "condition": "Monet",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "Vintage Monet Signed Herringbone Necklace With Matching Clip On Earrings Jewelry",
+      "price": 29.99,
+      "url": "https://www.ebay.com/itm/198086906220",
+      "condition": "Monet",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "MONET VINTAGE~RARE FIND Pastel Wisteria Parure Lucite Necklace",
+      "price": 49.99,
+      "url": "https://www.ebay.com/itm/187755183067",
+      "condition": "Monet",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "Vintage Gold Tone Signed Monet Chain Lariat Necklace And Earrings Set 80\u2019s/90\u2019s",
+      "price": 29.0,
+      "url": "https://www.ebay.com/itm/396735645116",
+      "condition": "Monet",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "Vintage Monet Silver-Tone \"Bolero\" Series Pendent Necklace Bracelet Earrings Set",
+      "price": 116.99,
+      "url": "https://www.ebay.com/itm/127426128730",
+      "condition": "Monet",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "Vintage  Monet  Green Enamel Gold Tone Set Signed 16\"  Choker,earrings, Bangle",
+      "price": 110.0,
+      "url": "https://www.ebay.com/itm/227463581579",
+      "condition": "Monet",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "Monet Necklace Earrings Set Silver Cream Enamel Zebra Stripe Vintage Signed Bold",
+      "price": 59.0,
+      "url": "https://www.ebay.com/itm/257721017544",
+      "condition": "Monet",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    },
+    {
+      "title": "Vintage MONET Gold Tone Filigree Flower Brooch & Clip-On Earrings Set Signed",
+      "price": 53.0,
+      "url": "https://www.ebay.com/itm/800663377783",
+      "condition": "Filigree",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "monet jewelry set vintage"
+    }
+  ],
+  "comps_count": 40,
+  "action_checklist": [
+    "Verdict: STRONG_LIST",
+    "List at $40.25",
+    "Max acquisition $22.06",
+    "Paste title/description into eBay",
+    "6\u20138 photos",
+    "BIN + Best Offer"
+  ]
+}
