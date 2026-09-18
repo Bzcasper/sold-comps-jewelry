@@ -1,0 +1,141 @@
+{
+  "generated_at": "2026-09-17T09:31:19.296085+00:00",
+  "system": "jewelry-power-swarm",
+  "features": [
+    "parallel_map",
+    "crawl4ai_stealth",
+    "sold_then_active",
+    "s-card__price",
+    "brand_extract",
+    "fee_aware_decide",
+    "ranked_leaderboard",
+    "listing_drafts",
+    "csv_export",
+    "dedup",
+    "run_delta",
+    "query_expand",
+    "spawn_map_async"
+  ],
+  "queries": [
+    "vintage trifari necklace",
+    "corocraft brooch signed",
+    "weiss rhinestone brooch",
+    "sarah coventry brooch",
+    "monet jewelry vintage",
+    "lisner brooch vintage",
+    "napier necklace vintage",
+    "costume jewelry brooch lot"
+  ],
+  "cost_basis": 8.0,
+  "total_rows": 0,
+  "sold_stats": {
+    "n": 0
+  },
+  "active_stats": {
+    "n": 0
+  },
+  "verdict_tally": {
+    "RESEARCH_ONLY": 8
+  },
+  "leaderboard": [
+    {
+      "rank": 1,
+      "query": "vintage trifari necklace",
+      "verdict": "RESEARCH_ONLY",
+      "score": 0,
+      "list_price": null,
+      "max_buy_cost": null,
+      "expected_net": null,
+      "brands": [],
+      "n_comps": 0
+    },
+    {
+      "rank": 2,
+      "query": "corocraft brooch signed",
+      "verdict": "RESEARCH_ONLY",
+      "score": 0,
+      "list_price": null,
+      "max_buy_cost": null,
+      "expected_net": null,
+      "brands": [],
+      "n_comps": 0
+    },
+    {
+      "rank": 3,
+      "query": "weiss rhinestone brooch",
+      "verdict": "RESEARCH_ONLY",
+      "score": 0,
+      "list_price": null,
+      "max_buy_cost": null,
+      "expected_net": null,
+      "brands": [],
+      "n_comps": 0
+    },
+    {
+      "rank": 4,
+      "query": "sarah coventry brooch",
+      "verdict": "RESEARCH_ONLY",
+      "score": 0,
+      "list_price": null,
+      "max_buy_cost": null,
+      "expected_net": null,
+      "brands": [],
+      "n_comps": 0
+    },
+    {
+      "rank": 5,
+      "query": "monet jewelry vintage",
+      "verdict": "RESEARCH_ONLY",
+      "score": 0,
+      "list_price": null,
+      "max_buy_cost": null,
+      "expected_net": null,
+      "brands": [],
+      "n_comps": 0
+    },
+    {
+      "rank": 6,
+      "query": "lisner brooch vintage",
+      "verdict": "RESEARCH_ONLY",
+      "score": 0,
+      "list_price": null,
+      "max_buy_cost": null,
+      "expected_net": null,
+      "brands": [],
+      "n_comps": 0
+    },
+    {
+      "rank": 7,
+      "query": "napier necklace vintage",
+      "verdict": "RESEARCH_ONLY",
+      "score": 0,
+      "list_price": null,
+      "max_buy_cost": null,
+      "expected_net": null,
+      "brands": [],
+      "n_comps": 0
+    },
+    {
+      "rank": 8,
+      "query": "costume jewelry brooch lot",
+      "verdict": "RESEARCH_ONLY",
+      "score": 0,
+      "list_price": null,
+      "max_buy_cost": null,
+      "expected_net": null,
+      "brands": [],
+      "n_comps": 0
+    }
+  ],
+  "top_listings": [],
+  "brand_heatmap": {},
+  "delta_vs_prior": {
+    "prior_total_rows": 0,
+    "row_delta": 0,
+    "prior_verdicts": {
+      "RESEARCH_ONLY": 8
+    }
+  },
+  "sources": [],
+  "action_queue": []
+}
