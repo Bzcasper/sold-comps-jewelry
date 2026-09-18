@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-09-17T09:01:06.797917+00:00",
+  "system": "jewelry-deal-desk-crawl4ai",
+  "query": "corocraft brooch signed",
+  "cost_basis": 8.0,
+  "scraper": "crawl4ai+http_fallback",
+  "proxy_enabled": false,
+  "decision": {
+    "query": "corocraft brooch signed",
+    "cost_basis": 8.0,
+    "verdict": "STRONG_LIST",
+    "list_price": 33.95,
+    "list_price_low": 20.0,
+    "list_price_high": 75.0,
+    "max_buy_cost": 16.71,
+    "expected_net": 20.71,
+    "expected_margin_pct": 2.589,
+    "fee_at_list": 6.24,
+    "comp_basis": "active",
+    "sold_stats": {
+      "n": 0
+    },
+    "active_stats": {
+      "n": 40,
+      "min": 1.0,
+      "p25": 20.0,
+      "median": 35.0,
+      "p75": 75.0,
+      "max": 1950.0,
+      "mean": 112.75
+    },
+    "reasons": [
+      "basis=active sold_n=0 active_n=40",
+      "anchor $35.00 \u2192 list $33.95 (p25\u2013p75 $20.00\u2013$75.00)",
+      "fees\u2248$6.24 net\u2248$28.71 before cost",
+      "cost $8.00 \u2192 profit $20.71 (258.9%)"
+    ],
+    "n_comps": 40
+  },
+  "listing": {
+    "title": "Vintage Corocraft Brooch Signed Costume Jewelry Pin",
+    "description": "Vintage Corocraft Brooch Signed Costume Jewelry Pin\\n\\n\u2022 Style cues: Coro\\n\u2022 Pre-owned vintage / costume jewelry \u2014 non-fine\\n\u2022 Inspected; see photos for condition, clasp, stones\\n\u2022 Ships fast from US\\n\u2022 Collectors, restyle, or gift\\n\\nCONDITION\\nPre-owned. Photos are the item.\\n\\nPRICING\\nFrom recent comps.\\n\\nSHIPPING\\nTracked.",
+    "item_specifics": {
+      "Brand": "Coro",
+      "Style": "Vintage",
+      "Type": "Brooch/Pin",
+      "Material": "Costume",
+      "Condition": "Pre-owned \u2014 see photos"
+    },
+    "tags": [
+      "vintage",
+      "costume jewelry",
+      "estate",
+      "coro",
+      "corocraft",
+      "brooch",
+      "signed",
+      "collectible"
+    ],
+    "pricing_strategy": {
+      "format": "Buy It Now + Best Offer",
+      "start_price": 33.95,
+      "accept_offers_below": 29.88,
+      "duration_days": 7,
+      "promoted_listings_ad_rate_pct": 2.0
+    },
+    "category_hint": "Jewelry & Watches > Fashion Jewelry"
+  },
+  "comps_sample": [
+    {
+      "title": "Corocraft Signed Heavy Gold Tone Flower Brooch Pin, Brown Rhinestone Floral",
+      "price": 16.99,
+      "url": "https://www.ebay.com/itm/128072520053",
+      "condition": "Coro",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "Signed COROCRAFT Vintage Golden Topaz Rhinestone Flower Coro Brooch Pin",
+      "price": 38.95,
+      "url": "https://www.ebay.com/itm/227188887088",
+      "condition": "Coro",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "Vintage COROCRAFT Signed Green Blue Navette Glass Flower Brooch Pin 3\" MCM",
+      "price": 3.0,
+      "url": "https://www.ebay.com/itm/800597108895",
+      "condition": "Corocraft",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "Corocraft Brooch Pin Signed Tomato Strawberry Rhinestones VTG U72",
+      "price": 39.0,
+      "url": "https://www.ebay.com/itm/327321858077",
+      "condition": "Corocraft",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "Corocraft Signed Designer High End Pav\u00e9 Rhinestones Gold Tone Brooch",
+      "price": 30.0,
+      "url": "https://www.ebay.com/itm/278211942526",
+      "condition": "Corocraft",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "Corocraft Victorian Revival Brooch/pendant Signed Vintage",
+      "price": 7.0,
+      "url": "https://www.ebay.com/itm/336796503174",
+      "condition": "Corocraft",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "Vintage CORO Craft Duette Sterling Silver Reindeer Fur Clips Brooch Pin - RARE",
+      "price": 599.0,
+      "url": "https://www.ebay.com/itm/237044809367",
+      "condition": "Coro",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "VNT Signed COROCRAFT STERLING Red Crystal Belly/Enameled/Rhinestone Owl Fur Clip",
+      "price": 380.0,
+      "url": "https://www.ebay.com/itm/178474530329",
+      "condition": "Corocraft",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "Vtg CORO CRAFT Sterling Lizard Brooch Pin Gecko Blue Rhinestones Pegasus Signed",
+      "price": 145.0,
+      "url": "https://www.ebay.com/itm/128072329310",
+      "condition": "Corocraft",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "Vintage Signed Corocraft Pave Rhinestone ROUND Brooch Pin 1 7/8 INCHES SPARKLY",
+      "price": 1.0,
+      "url": "https://www.ebay.com/itm/298671347627",
+      "condition": "Corocraft",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "Corocraft Signed Gold Tone Filigree Round White Pearl Cluster Leaf Brooch Pin",
+      "price": 75.0,
+      "url": "https://www.ebay.com/itm/287580920226",
+      "condition": "Pre-Owned",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "Vintage Corocraft Coro 2.5\" Enameled Flower Brooch Pin Signed NICE CONDITION!",
+      "price": 2.5,
+      "url": "https://www.ebay.com/itm/278241163755",
+      "condition": "Corocraft",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "Vintage Signed CoroCraft Gold-Tone Figural Donkey (Burro) Brooch~1970s",
+      "price": 16.2,
+      "url": "https://www.ebay.com/itm/327237626592",
+      "condition": "Corocraft",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "Rare Signed CoroCraft Bow with Deep Blue Sapphire color Baguette Rhinestones",
+      "price": 28.99,
+      "url": "https://www.ebay.com/itm/287333609614",
+      "condition": "Pre-Owned",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    },
+    {
+      "title": "Vintage Signed Corocraft Red Glass Rhinestone Brooch Ruby Topaz Gold Tone",
+      "price": 79.87,
+      "url": "https://www.ebay.com/itm/257651804185",
+      "condition": "Corocraft",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "corocraft brooch signed"
+    }
+  ],
+  "comps_count": 40,
+  "action_checklist": [
+    "Verdict: STRONG_LIST",
+    "List at $33.95",
+    "Max acquisition $16.71",
+    "Paste title/description into eBay",
+    "6\u20138 photos",
+    "BIN + Best Offer"
+  ]
+}
