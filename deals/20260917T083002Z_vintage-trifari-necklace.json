@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-09-17T08:30:00.373964+00:00",
+  "system": "jewelry-deal-desk",
+  "query": "vintage trifari necklace",
+  "cost_basis": 8.0,
+  "decision": {
+    "query": "vintage trifari necklace",
+    "cost_basis": 8.0,
+    "verdict": "RESEARCH_ONLY",
+    "list_price": null,
+    "list_price_low": null,
+    "list_price_high": null,
+    "max_buy_cost": null,
+    "expected_net": null,
+    "expected_margin_pct": null,
+    "fee_at_list": null,
+    "comp_basis": "none",
+    "sold_stats": {
+      "n": 0
+    },
+    "active_stats": {
+      "n": 0
+    },
+    "reasons": [
+      "Insufficient comps"
+    ],
+    "n_comps": 0
+  },
+  "listing": {
+    "title": "Vintage Trifari Necklace Costume Jewelry",
+    "description": "Vintage Trifari Necklace Costume Jewelry\\n\\n\u2022 Pre-owned vintage / costume jewelry \u2014 non-fine fashion piece\\n\u2022 Inspected; see photos for condition, clasp, stones\\n\u2022 Ships fast from US in protective packaging\\n\u2022 Collectors, restyle, or gift\\n\\nCONDITION\\nPre-owned. Light wear consistent with age. Photos are the item.\n\nPRICING\\nPriced from recent comps. Offers on multi-item orders.\n\nSHIPPING\\nTracked, combined shipping available.\n\nKeywords: vintage trifari necklace, vintage costume jewelry, estate jewelry",
+    "item_specifics": {
+      "Brand": "Unbranded",
+      "Style": "Vintage",
+      "Type": "Necklace",
+      "Metal": "Base metal",
+      "Material": "Costume",
+      "Condition": "Pre-owned \u2014 see photos"
+    },
+    "tags": [
+      "vintage",
+      "costume jewelry",
+      "estate",
+      "signed",
+      "trifari",
+      "necklace",
+      "collectible"
+    ],
+    "pricing_strategy": {
+      "format": "Buy It Now + Best Offer",
+      "start_price": null,
+      "accept_offers_below": null,
+      "duration_days": 7,
+      "promoted_listings_ad_rate_pct": 0.0
+    },
+    "category_hint": "Jewelry & Watches > Fashion Jewelry"
+  },
+  "comps_sample": [],
+  "comps_count": 0,
+  "action_checklist": [
+    "Verdict: RESEARCH_ONLY",
+    "No list price",
+    "N/A",
+    "Paste title/description into eBay draft",
+    "Upload 6\u20138 photos (front, back, clasp, signature, scale)",
+    "BIN + Best Offer per pricing_strategy"
+  ]
+}
