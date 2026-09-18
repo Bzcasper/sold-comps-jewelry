@@ -1,0 +1,213 @@
+{
+  "generated_at": "2026-09-18T13:44:52.661416+00:00",
+  "system": "jewelry-deal-desk-crawl4ai",
+  "query": "vintage trifari necklace",
+  "cost_basis": 0.0,
+  "scraper": "crawl4ai+http_fallback",
+  "proxy_enabled": false,
+  "decision": {
+    "query": "vintage trifari necklace",
+    "cost_basis": 0.0,
+    "verdict": "RESEARCH_ONLY",
+    "list_price": 23.76,
+    "list_price_low": 12.97,
+    "list_price_high": 54.88,
+    "max_buy_cost": 8.05,
+    "expected_net": 20.05,
+    "expected_margin_pct": null,
+    "fee_at_list": 4.71,
+    "comp_basis": "active",
+    "sold_stats": {
+      "n": 0
+    },
+    "active_stats": {
+      "n": 40,
+      "min": 1.99,
+      "p25": 12.97,
+      "median": 24.49,
+      "p75": 54.88,
+      "max": 106.25,
+      "mean": 30.59
+    },
+    "reasons": [
+      "basis=active sold_n=0 active_n=40",
+      "anchor $24.49 \u2192 list $23.76 (p25\u2013p75 $12.97\u2013$54.88)",
+      "fees\u2248$4.71 net\u2248$20.05 before cost",
+      "max buy $8.05"
+    ],
+    "n_comps": 40
+  },
+  "listing": {
+    "title": "Vintage Trifari Necklace Costume Jewelry",
+    "description": "Vintage Trifari Necklace Costume Jewelry\\n\\n\u2022 Style cues: Trifari\\n\u2022 Pre-owned vintage / costume jewelry \u2014 non-fine\\n\u2022 Inspected; see photos for condition, clasp, stones\\n\u2022 Ships fast from US\\n\u2022 Collectors, restyle, or gift\\n\\nCONDITION\\nPre-owned. Photos are the item.\\n\\nPRICING\\nFrom recent comps.\\n\\nSHIPPING\\nTracked.",
+    "item_specifics": {
+      "Brand": "Trifari",
+      "Style": "Vintage",
+      "Type": "Necklace",
+      "Material": "Costume",
+      "Condition": "Pre-owned \u2014 see photos"
+    },
+    "tags": [
+      "vintage",
+      "costume jewelry",
+      "estate",
+      "trifari",
+      "necklace",
+      "collectible"
+    ],
+    "pricing_strategy": {
+      "format": "Buy It Now + Best Offer",
+      "start_price": 23.76,
+      "accept_offers_below": 20.91,
+      "duration_days": 7,
+      "promoted_listings_ad_rate_pct": 0.0
+    },
+    "category_hint": "Jewelry & Watches > Fashion Jewelry"
+  },
+  "comps_sample": [
+    {
+      "title": "VINTAGE CROWN TRIFARI GOLDEN PEARL & RHINESTONE NECKLACE",
+      "price": 54.88,
+      "url": "https://www.ebay.com/itm/327112600876",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Beautiful Vintage Gold Crown Trifari Leaf Leaves Necklace Choker 16\u201d",
+      "price": 55.0,
+      "url": "https://www.ebay.com/itm/365959670400",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vintage Signed Trifari Necklace Brushed Gold Tone Botanical Vine Leaf Choker",
+      "price": 28.0,
+      "url": "https://www.ebay.com/itm/287586239688",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vintage Signed Trifari Gold Tone Necklace Faux Pearl Rhinestone Mid Century Rare",
+      "price": 24.0,
+      "url": "https://www.ebay.com/itm/318048985792",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "12 Vintage Trifari Beaded Necklaces Multicolors Beautiful",
+      "price": 65.0,
+      "url": "https://www.ebay.com/itm/387519884823",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "...Vintage TRIFARI...Gold Tone 10-Strand Black Glass Beads Necklace...",
+      "price": 12.97,
+      "url": "https://www.ebay.com/itm/115399756568",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "...Vintage TRIFARI...Faux Pearl Glass Beads Braided Gold Tone Chain Necklace...",
+      "price": 14.97,
+      "url": "https://www.ebay.com/itm/116785035556",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vintage Trifari Necklace Twisted Mesh Chain Silver Tone Signed 16\u201d",
+      "price": 31.99,
+      "url": "https://www.ebay.com/itm/287455259190",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vintage Gold tone Trifari Omega Chain Choker Necklace",
+      "price": 19.99,
+      "url": "https://www.ebay.com/itm/147108103037",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vtg Crown Trifari Necklace Silver Tone Lucite Rhinestones Faux Pearls 14\u201d Signed",
+      "price": 90.0,
+      "url": "https://www.ebay.com/itm/165993572938",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Trifari Gold Toned Weaved Necklace 24-in Signed Vintage Jewelry",
+      "price": 7.75,
+      "url": "https://www.ebay.com/itm/227401301204",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vintage Crown Trifari Scorpio Zodiac Glass Intaglio Gold Tone Pendant",
+      "price": 25.0,
+      "url": "https://www.ebay.com/itm/167991886840",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Trifari Pat Pend Alfred Philippe Comet Baguette Rhinestone Necklace 14.5\u201d-17.5\u201d",
+      "price": 22.13,
+      "url": "https://www.ebay.com/itm/298667170257",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vtg 1960s Trifari Gold Tone Byzantine Link Choker Necklace 14\" Classic Elegant",
+      "price": 28.0,
+      "url": "https://www.ebay.com/itm/318821985471",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    },
+    {
+      "title": "Vintage Trifari Signed Gold Tone Chain Necklace 16\u201d,A91",
+      "price": 3.25,
+      "url": "https://www.ebay.com/itm/257735755994",
+      "condition": "Trifari",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "vintage trifari necklace"
+    }
+  ],
+  "comps_count": 40,
+  "action_checklist": [
+    "Verdict: RESEARCH_ONLY",
+    "List at $23.76",
+    "Max acquisition $8.05",
+    "Paste title/description into eBay",
+    "6\u20138 photos",
+    "BIN + Best Offer"
+  ]
+}
