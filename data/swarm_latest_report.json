@@ -1,0 +1,58 @@
+{
+  "generated_at": "2026-09-18T08:12:04.424124+00:00",
+  "system": "jewelry-full-swarm-sandbox-v2",
+  "modal_techniques": [
+    "sandbox_v2",
+    "named_image",
+    "volume_shared",
+    "secrets",
+    "function_map",
+    "isolated_egress_per_query"
+  ],
+  "queries": [
+    "vintage trifari necklace",
+    "corocraft brooch signed"
+  ],
+  "cost_basis": 8.0,
+  "total_rows": 0,
+  "sold_stats": {
+    "n": 0
+  },
+  "active_stats": {
+    "n": 0
+  },
+  "decisions": [
+    {
+      "query": "vintage trifari necklace",
+      "verdict": "RESEARCH_ONLY",
+      "list_price": null,
+      "max_buy_cost": null,
+      "n_comps": 0,
+      "comp_basis": "none",
+      "sold_stats": {
+        "n": 0
+      },
+      "active_stats": {
+        "n": 0
+      }
+    },
+    {
+      "query": "corocraft brooch signed",
+      "verdict": "RESEARCH_ONLY",
+      "list_price": null,
+      "max_buy_cost": null,
+      "n_comps": 0,
+      "comp_basis": "none",
+      "sold_stats": {
+        "n": 0
+      },
+      "active_stats": {
+        "n": 0
+      }
+    }
+  ],
+  "verdict_tally": {
+    "RESEARCH_ONLY": 2
+  },
+  "sources": []
+}
