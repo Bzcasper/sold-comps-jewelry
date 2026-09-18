@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-09-17T09:08:10.849332+00:00",
+  "system": "jewelry-deal-desk-crawl4ai",
+  "query": "lisner brooch vintage",
+  "cost_basis": 8.0,
+  "scraper": "crawl4ai+http_fallback",
+  "proxy_enabled": false,
+  "decision": {
+    "query": "lisner brooch vintage",
+    "cost_basis": 8.0,
+    "verdict": "STRONG_LIST",
+    "list_price": 25.52,
+    "list_price_low": 19.95,
+    "list_price_high": 63.0,
+    "max_buy_cost": 9.54,
+    "expected_net": 13.54,
+    "expected_margin_pct": 1.692,
+    "fee_at_list": 4.98,
+    "comp_basis": "active",
+    "sold_stats": {
+      "n": 0
+    },
+    "active_stats": {
+      "n": 40,
+      "min": 1.0,
+      "p25": 19.95,
+      "median": 26.31,
+      "p75": 63.0,
+      "max": 2075.0,
+      "mean": 101.08
+    },
+    "reasons": [
+      "basis=active sold_n=0 active_n=40",
+      "anchor $26.31 \u2192 list $25.52 (p25\u2013p75 $19.95\u2013$63.00)",
+      "fees\u2248$4.98 net\u2248$21.54 before cost",
+      "cost $8.00 \u2192 profit $13.54 (169.2%)"
+    ],
+    "n_comps": 40
+  },
+  "listing": {
+    "title": "Vintage Lisner Brooch Vintage Costume Jewelry Pin",
+    "description": "Vintage Lisner Brooch Vintage Costume Jewelry Pin\\n\\n\u2022 Style cues: Lisner, Monet, Trifari\\n\u2022 Pre-owned vintage / costume jewelry \u2014 non-fine\\n\u2022 Inspected; see photos for condition, clasp, stones\\n\u2022 Ships fast from US\\n\u2022 Collectors, restyle, or gift\\n\\nCONDITION\\nPre-owned. Photos are the item.\\n\\nPRICING\\nFrom recent comps.\\n\\nSHIPPING\\nTracked.",
+    "item_specifics": {
+      "Brand": "Lisner",
+      "Style": "Vintage",
+      "Type": "Brooch/Pin",
+      "Material": "Costume",
+      "Condition": "Pre-owned \u2014 see photos"
+    },
+    "tags": [
+      "vintage",
+      "costume jewelry",
+      "estate",
+      "lisner",
+      "monet",
+      "trifari",
+      "brooch",
+      "collectible"
+    ],
+    "pricing_strategy": {
+      "format": "Buy It Now + Best Offer",
+      "start_price": 25.52,
+      "accept_offers_below": 22.46,
+      "duration_days": 7,
+      "promoted_listings_ad_rate_pct": 0.0
+    },
+    "category_hint": "Jewelry & Watches > Fashion Jewelry"
+  },
+  "comps_sample": [
+    {
+      "title": "VINTAGE LISNER MULTI COLOR RHINESTONE STAR BROOCH",
+      "price": 19.95,
+      "url": "https://www.ebay.com/itm/326916822568",
+      "condition": "Lisner",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "Vtg High End All Designer Signed Jewelry Lot 167 Pcs. All Wear Dior,  Monet. ++",
+      "price": 2075.0,
+      "url": "https://www.ebay.com/itm/307009968563",
+      "condition": "1928",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "Vintage Lisner Rhinestone Brooch Lot Blue Red",
+      "price": 36.99,
+      "url": "https://www.ebay.com/itm/237061254200",
+      "condition": "Estate",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "Vintage Lot Of  Jewelry From 1950-60S For Parts Or Repair Hobe Trifari Etc",
+      "price": 104.5,
+      "url": "https://www.ebay.com/itm/278359482006",
+      "condition": "Pre-Owned",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "Vintage LISNER Blue Green RHINESTONE Goldtone BROOCH",
+      "price": 35.99,
+      "url": "https://www.ebay.com/itm/820103256300",
+      "condition": "Lisner",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "13Lb Quick Costume Jewelry Lot Tangle Parts Lisner Nolan Miller Lia Sophia 1928",
+      "price": 46.0,
+      "url": "https://www.ebay.com/itm/327352465554",
+      "condition": "1928",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "Vintage Jewelry Estate Lot Panagopoulis Trifari Earrings Signed Lisner Brooch 21",
+      "price": 39.0,
+      "url": "https://www.ebay.com/itm/188900594348",
+      "condition": "Lisner",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "Vintage/Designer Unsearched Estate Jewelry Lot 2Lbs + Crown!",
+      "price": 46.99,
+      "url": "https://www.ebay.com/itm/387648289919",
+      "condition": "Designer",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "18lb Costume Jewelry Lot Lisner Pell Pulitzer Betsey Johnson Spade Wild Byrde",
+      "price": 449.99,
+      "url": "https://www.ebay.com/itm/327339286128",
+      "condition": "1928",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "24 Hour Listing Vintage To Now Gold Tone Jewelry Lot, Some Signed Lisner 30pcs",
+      "price": 24.5,
+      "url": "https://www.ebay.com/itm/407214875220",
+      "condition": "Vintage to now gold tone jewelry lot.",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "Lisner authentic Salmon Color enamel flower brooch",
+      "price": 22.99,
+      "url": "https://www.ebay.com/itm/366605921672",
+      "condition": "Lisner",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "Vintage LISNER AB Rhinestone Brooch Silvertone Pastels Pink/blue/ Green Stones",
+      "price": 38.99,
+      "url": "https://www.ebay.com/itm/147327282773",
+      "condition": "Lisner",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "40 Pc Vintage Jewelry Lot Sterling Lisner Signed Turquoise Rhinestone Beach Hues",
+      "price": 217.5,
+      "url": "https://www.ebay.com/itm/820099694634",
+      "condition": "Lisner",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "Vintage Unsigned Lisner Gold Tone Rhinestones Brooch Floral Corn Husk 3\" Flower",
+      "price": 11.2,
+      "url": "https://www.ebay.com/itm/376444081579",
+      "condition": "Lisner",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    },
+    {
+      "title": "Lot of 25 Vintage Goldtone Leaves/ Flowers MMA, BSK, Giovanni, Monet, Lisner",
+      "price": 120.0,
+      "url": "https://www.ebay.com/itm/377479497609",
+      "condition": "Pre-Owned",
+      "sale_type": "active",
+      "source": "crawl4ai_stealth",
+      "query": "lisner brooch vintage"
+    }
+  ],
+  "comps_count": 40,
+  "action_checklist": [
+    "Verdict: STRONG_LIST",
+    "List at $25.52",
+    "Max acquisition $9.54",
+    "Paste title/description into eBay",
+    "6\u20138 photos",
+    "BIN + Best Offer"
+  ]
+}
