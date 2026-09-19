@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-09-19T04:04:17.994931+00:00",
+  "system": "jewelry-full-swarm-sandbox-v2",
+  "modal_techniques": [
+    "sandbox_v2",
+    "named_image",
+    "volume_shared",
+    "secrets",
+    "function_map",
+    "isolated_egress_per_query"
+  ],
+  "queries": [
+    "vintage trifari necklace",
+    "corocraft brooch signed",
+    "weiss rhinestone brooch",
+    "sarah coventry brooch"
+  ],
+  "cost_basis": 8.0,
+  "total_rows": 239,
+  "sold_stats": {
+    "n": 239,
+    "min": 1.99,
+    "p25": 12.0,
+    "median": 25.0,
+    "p75": 53.07,
+    "max": 875.0,
+    "mean": 48.28
+  },
+  "active_stats": {
+    "n": 0
+  },
+  "decisions": [
+    {
+      "query": "vintage trifari necklace",
+      "verdict": "STRONG_LIST",
+      "list_price": 24.99,
+      "list_price_low": 14.95,
+      "list_price_high": 39.99,
+      "max_buy_cost": 9.09,
+      "expected_net": 13.09,
+      "fee_at_list": 4.9,
+      "comp_basis": "sold",
+      "n_comps": 60,
+      "sold_stats": {
+        "n": 60,
+        "min": 1.99,
+        "p25": 14.95,
+        "median": 24.99,
+        "p75": 39.99,
+        "max": 175.0,
+        "mean": 32.35
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "corocraft brooch signed",
+      "verdict": "STRONG_LIST",
+      "list_price": 50.0,
+      "list_price_low": 20.0,
+      "list_price_high": 124.87,
+      "max_buy_cost": 30.35,
+      "expected_net": 34.35,
+      "fee_at_list": 8.65,
+      "comp_basis": "sold",
+      "n_comps": 59,
+      "sold_stats": {
+        "n": 59,
+        "min": 2.5,
+        "p25": 20.0,
+        "median": 50.0,
+        "p75": 124.87,
+        "max": 875.0,
+        "mean": 103.17
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "weiss rhinestone brooch",
+      "verdict": "STRONG_LIST",
+      "list_price": 35.25,
+      "list_price_low": 26.0,
+      "list_price_high": 65.0,
+      "max_buy_cost": 17.81,
+      "expected_net": 21.81,
+      "fee_at_list": 6.44,
+      "comp_basis": "sold",
+      "n_comps": 60,
+      "sold_stats": {
+        "n": 60,
+        "min": 9.99,
+        "p25": 26.0,
+        "median": 35.25,
+        "p75": 65.0,
+        "max": 149.0,
+        "mean": 46.27
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "sarah coventry brooch",
+      "verdict": "HOLD",
+      "list_price": 10.0,
+      "list_price_low": 8.0,
+      "list_price_high": 14.95,
+      "max_buy_cost": 0.0,
+      "expected_net": 0.35,
+      "fee_at_list": 2.65,
+      "comp_basis": "sold",
+      "n_comps": 60,
+      "sold_stats": {
+        "n": 60,
+        "min": 1.99,
+        "p25": 8.0,
+        "median": 10.0,
+        "p75": 14.95,
+        "max": 59.98,
+        "mean": 12.26
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    }
+  ],
+  "verdict_tally": {
+    "STRONG_LIST": 3,
+    "HOLD": 1
+  },
+  "sources": [
+    "ebay"
+  ],
+  "sold_dataset_path": "/data/datasets/sold_preowned_20260919T040418Z.jsonl",
+  "sold_rows": 239,
+  "priced_sold_rows": 239
+}
