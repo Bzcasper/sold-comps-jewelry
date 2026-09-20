@@ -1,0 +1,1711 @@
+{
+  "generated_at": "2026-09-20T00:16:11.015848+00:00",
+  "system": "jewelry-full-swarm-sandbox-v2",
+  "modal_techniques": [
+    "sandbox_v2",
+    "named_image",
+    "volume_shared",
+    "secrets",
+    "function_map",
+    "isolated_egress_per_query"
+  ],
+  "queries": [
+    "fashion jewelry necklace pre-owned",
+    "costume jewelry earrings vintage",
+    "boho necklace fashion jewelry",
+    "statement necklace costume jewelry",
+    "rhinestone bracelet vintage",
+    "vintage brooch costume jewelry",
+    "clip on earrings vintage costume",
+    "fashion ring costume jewelry",
+    "chunky necklace vintage costume",
+    "beaded necklace boho vintage",
+    "turquoise necklace fashion jewelry",
+    "pearl necklace costume vintage",
+    "cuff bracelet vintage costume",
+    "charm bracelet vintage costume",
+    "signed costume jewelry necklace",
+    "signed costume jewelry earrings",
+    "lucite bracelet vintage",
+    "bakelite bangle vintage",
+    "cameo brooch vintage",
+    "art deco brooch costume",
+    "mid century costume jewelry necklace",
+    "silver tone necklace costume",
+    "gold tone earrings fashion jewelry",
+    "enamel brooch vintage costume",
+    "mosaic pendant necklace vintage",
+    "flower brooch rhinestone vintage",
+    "butterfly brooch costume vintage",
+    "cat brooch costume jewelry",
+    "heart necklace fashion jewelry",
+    "cross necklace costume vintage",
+    "moon necklace fashion jewelry",
+    "layered necklace fashion jewelry",
+    "collar necklace costume vintage",
+    "tennis bracelet costume fashion",
+    "anklet fashion jewelry pre-owned",
+    "body chain fashion jewelry",
+    "ear crawler fashion jewelry",
+    "trifari necklace vintage",
+    "trifari earrings vintage",
+    "trifari bracelet vintage",
+    "trifari brooch vintage",
+    "trifari pendant vintage",
+    "trifari ring vintage",
+    "trifari choker vintage",
+    "trifari bangle vintage",
+    "corocraft necklace vintage",
+    "corocraft earrings vintage",
+    "corocraft bracelet vintage",
+    "corocraft brooch vintage",
+    "corocraft pendant vintage",
+    "corocraft ring vintage",
+    "corocraft choker vintage",
+    "corocraft bangle vintage",
+    "weiss necklace vintage",
+    "weiss earrings vintage",
+    "weiss bracelet vintage",
+    "weiss brooch vintage",
+    "weiss pendant vintage",
+    "weiss ring vintage",
+    "weiss choker vintage",
+    "weiss bangle vintage",
+    "sarah coventry necklace vintage",
+    "sarah coventry earrings vintage",
+    "sarah coventry bracelet vintage"
+  ],
+  "cost_basis": 8.0,
+  "total_rows": 3741,
+  "sold_stats": {
+    "n": 3436,
+    "min": 0.55,
+    "p25": 11.0,
+    "median": 19.99,
+    "p75": 35.0,
+    "max": 650.0,
+    "mean": 33.09
+  },
+  "active_stats": {
+    "n": 303,
+    "min": 1.0,
+    "p25": 12.0,
+    "median": 20.0,
+    "p75": 40.0,
+    "max": 666.48,
+    "mean": 55.03
+  },
+  "decisions": [
+    {
+      "query": "fashion jewelry necklace pre-owned",
+      "verdict": "HOLD",
+      "list_price": 9.99,
+      "list_price_low": 8.0,
+      "list_price_high": 9.99,
+      "max_buy_cost": 0.0,
+      "expected_net": 0.34,
+      "fee_at_list": 2.65,
+      "comp_basis": "sold",
+      "n_comps": 5,
+      "sold_stats": {
+        "n": 5,
+        "min": 6.99,
+        "p25": 8.0,
+        "median": 8.99,
+        "p75": 9.99,
+        "max": 9.99,
+        "mean": 8.79
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "costume jewelry earrings vintage",
+      "verdict": "HOLD",
+      "list_price": 16.09,
+      "list_price_low": 13.99,
+      "list_price_high": 22.86,
+      "max_buy_cost": 1.53,
+      "expected_net": 5.53,
+      "fee_at_list": 3.56,
+      "comp_basis": "sold",
+      "n_comps": 32,
+      "sold_stats": {
+        "n": 32,
+        "min": 7.49,
+        "p25": 13.99,
+        "median": 16.09,
+        "p75": 22.86,
+        "max": 123.14,
+        "mean": 21.01
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "boho necklace fashion jewelry",
+      "verdict": "HOLD",
+      "list_price": 13.0,
+      "list_price_low": 9.0,
+      "list_price_high": 19.99,
+      "max_buy_cost": 0.0,
+      "expected_net": 2.9,
+      "fee_at_list": 3.1,
+      "comp_basis": "sold",
+      "n_comps": 18,
+      "sold_stats": {
+        "n": 18,
+        "min": 2.25,
+        "p25": 9.0,
+        "median": 13.0,
+        "p75": 19.99,
+        "max": 50.0,
+        "mean": 16.39
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "statement necklace costume jewelry",
+      "verdict": "HOLD",
+      "list_price": 13.99,
+      "list_price_low": 9.99,
+      "list_price_high": 20.0,
+      "max_buy_cost": 0.0,
+      "expected_net": 3.74,
+      "fee_at_list": 3.25,
+      "comp_basis": "sold",
+      "n_comps": 51,
+      "sold_stats": {
+        "n": 51,
+        "min": 4.4,
+        "p25": 9.99,
+        "median": 13.99,
+        "p75": 20.0,
+        "max": 70.0,
+        "mean": 17.12
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "rhinestone bracelet vintage",
+      "verdict": "LIST",
+      "list_price": 20.91,
+      "list_price_low": 12.0,
+      "list_price_high": 39.0,
+      "max_buy_cost": 5.62,
+      "expected_net": 9.62,
+      "fee_at_list": 4.29,
+      "comp_basis": "sold",
+      "n_comps": 310,
+      "sold_stats": {
+        "n": 310,
+        "min": 1.25,
+        "p25": 12.0,
+        "median": 20.91,
+        "p75": 39.0,
+        "max": 304.0,
+        "mean": 34.8
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "vintage brooch costume jewelry",
+      "verdict": "HOLD",
+      "list_price": 14.37,
+      "list_price_low": 9.5,
+      "list_price_high": 22.0,
+      "max_buy_cost": 0.06,
+      "expected_net": 4.06,
+      "fee_at_list": 3.31,
+      "comp_basis": "sold",
+      "n_comps": 358,
+      "sold_stats": {
+        "n": 358,
+        "min": 0.99,
+        "p25": 9.5,
+        "median": 14.37,
+        "p75": 22.0,
+        "max": 285.0,
+        "mean": 21.29
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "clip on earrings vintage costume",
+      "verdict": "HOLD",
+      "list_price": 14.65,
+      "list_price_low": 9.36,
+      "list_price_high": 21.08,
+      "max_buy_cost": 0.3,
+      "expected_net": 4.3,
+      "fee_at_list": 3.35,
+      "comp_basis": "sold",
+      "n_comps": 25,
+      "sold_stats": {
+        "n": 25,
+        "min": 5.29,
+        "p25": 9.36,
+        "median": 14.65,
+        "p75": 21.08,
+        "max": 123.14,
+        "mean": 19.03
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "fashion ring costume jewelry",
+      "verdict": "HOLD",
+      "list_price": 9.99,
+      "list_price_low": 5.0,
+      "list_price_high": 14.99,
+      "max_buy_cost": 0.0,
+      "expected_net": 0.34,
+      "fee_at_list": 2.65,
+      "comp_basis": "sold",
+      "n_comps": 17,
+      "sold_stats": {
+        "n": 17,
+        "min": 0.55,
+        "p25": 5.0,
+        "median": 9.99,
+        "p75": 14.99,
+        "max": 49.99,
+        "mean": 13.71
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "chunky necklace vintage costume",
+      "verdict": "HOLD",
+      "list_price": 16.07,
+      "list_price_low": 11.99,
+      "list_price_high": 22.49,
+      "max_buy_cost": 1.51,
+      "expected_net": 5.51,
+      "fee_at_list": 3.56,
+      "comp_basis": "sold",
+      "n_comps": 49,
+      "sold_stats": {
+        "n": 49,
+        "min": 3.26,
+        "p25": 11.99,
+        "median": 16.07,
+        "p75": 22.49,
+        "max": 98.0,
+        "mean": 20.13
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "beaded necklace boho vintage",
+      "verdict": "HOLD",
+      "list_price": 15.96,
+      "list_price_low": 10.49,
+      "list_price_high": 24.0,
+      "max_buy_cost": 1.42,
+      "expected_net": 5.42,
+      "fee_at_list": 3.54,
+      "comp_basis": "sold",
+      "n_comps": 75,
+      "sold_stats": {
+        "n": 75,
+        "min": 0.55,
+        "p25": 10.49,
+        "median": 15.96,
+        "p75": 24.0,
+        "max": 71.0,
+        "mean": 18.33
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "turquoise necklace fashion jewelry",
+      "verdict": "LIST",
+      "list_price": 19.37,
+      "list_price_low": 10.0,
+      "list_price_high": 24.5,
+      "max_buy_cost": 4.31,
+      "expected_net": 8.31,
+      "fee_at_list": 4.06,
+      "comp_basis": "sold",
+      "n_comps": 14,
+      "sold_stats": {
+        "n": 14,
+        "min": 3.99,
+        "p25": 10.0,
+        "median": 19.37,
+        "p75": 24.5,
+        "max": 139.95,
+        "mean": 26.28
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "pearl necklace costume vintage",
+      "verdict": "HOLD",
+      "list_price": 12.5,
+      "list_price_low": 7.99,
+      "list_price_high": 19.95,
+      "max_buy_cost": 0.0,
+      "expected_net": 2.48,
+      "fee_at_list": 3.02,
+      "comp_basis": "sold",
+      "n_comps": 82,
+      "sold_stats": {
+        "n": 82,
+        "min": 0.99,
+        "p25": 7.99,
+        "median": 12.5,
+        "p75": 19.95,
+        "max": 214.48,
+        "mean": 18.68
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "cuff bracelet vintage costume",
+      "verdict": "HOLD",
+      "list_price": 12.99,
+      "list_price_low": 9.95,
+      "list_price_high": 25.0,
+      "max_buy_cost": 0.0,
+      "expected_net": 2.89,
+      "fee_at_list": 3.1,
+      "comp_basis": "sold",
+      "n_comps": 33,
+      "sold_stats": {
+        "n": 33,
+        "min": 3.99,
+        "p25": 9.95,
+        "median": 12.99,
+        "p75": 25.0,
+        "max": 611.0,
+        "mean": 43.87
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "charm bracelet vintage costume",
+      "verdict": "LIST",
+      "list_price": 17.07,
+      "list_price_low": 10.5,
+      "list_price_high": 31.99,
+      "max_buy_cost": 2.36,
+      "expected_net": 6.36,
+      "fee_at_list": 3.71,
+      "comp_basis": "sold",
+      "n_comps": 22,
+      "sold_stats": {
+        "n": 22,
+        "min": 6.43,
+        "p25": 10.5,
+        "median": 17.07,
+        "p75": 31.99,
+        "max": 150.0,
+        "mean": 35.04
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "signed costume jewelry necklace",
+      "verdict": "HOLD",
+      "list_price": 12.99,
+      "list_price_low": 9.99,
+      "list_price_high": 27.99,
+      "max_buy_cost": 0.0,
+      "expected_net": 2.89,
+      "fee_at_list": 3.1,
+      "comp_basis": "sold",
+      "n_comps": 38,
+      "sold_stats": {
+        "n": 38,
+        "min": 6.49,
+        "p25": 9.99,
+        "median": 12.99,
+        "p75": 27.99,
+        "max": 200.0,
+        "mean": 31.33
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "signed costume jewelry earrings",
+      "verdict": "STRONG_LIST",
+      "list_price": 36.0,
+      "list_price_low": 24.99,
+      "list_price_high": 100.0,
+      "max_buy_cost": 18.45,
+      "expected_net": 22.45,
+      "fee_at_list": 6.55,
+      "comp_basis": "sold",
+      "n_comps": 5,
+      "sold_stats": {
+        "n": 5,
+        "min": 17.87,
+        "p25": 24.99,
+        "median": 36.0,
+        "p75": 100.0,
+        "max": 123.14,
+        "mean": 60.4
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "lucite bracelet vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 24.95,
+      "list_price_low": 16.99,
+      "list_price_high": 47.19,
+      "max_buy_cost": 9.06,
+      "expected_net": 13.06,
+      "fee_at_list": 4.89,
+      "comp_basis": "sold",
+      "n_comps": 115,
+      "sold_stats": {
+        "n": 115,
+        "min": 4.16,
+        "p25": 16.99,
+        "median": 24.95,
+        "p75": 47.19,
+        "max": 225.0,
+        "mean": 40.9
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "bakelite bangle vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 47.98,
+      "list_price_low": 29.99,
+      "list_price_high": 75.0,
+      "max_buy_cost": 28.63,
+      "expected_net": 32.63,
+      "fee_at_list": 8.35,
+      "comp_basis": "sold",
+      "n_comps": 120,
+      "sold_stats": {
+        "n": 120,
+        "min": 9.99,
+        "p25": 29.99,
+        "median": 47.98,
+        "p75": 75.0,
+        "max": 425.0,
+        "mean": 63.98
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "cameo brooch vintage",
+      "verdict": "HOLD",
+      "list_price": 15.0,
+      "list_price_low": 9.0,
+      "list_price_high": 25.45,
+      "max_buy_cost": 0.6,
+      "expected_net": 4.6,
+      "fee_at_list": 3.4,
+      "comp_basis": "sold",
+      "n_comps": 75,
+      "sold_stats": {
+        "n": 75,
+        "min": 1.0,
+        "p25": 9.0,
+        "median": 15.0,
+        "p75": 25.45,
+        "max": 345.59,
+        "mean": 28.36
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "art deco brooch costume",
+      "verdict": "LIST",
+      "list_price": 17.09,
+      "list_price_low": 8.18,
+      "list_price_high": 29.95,
+      "max_buy_cost": 2.38,
+      "expected_net": 6.38,
+      "fee_at_list": 3.71,
+      "comp_basis": "sold",
+      "n_comps": 30,
+      "sold_stats": {
+        "n": 30,
+        "min": 3.0,
+        "p25": 8.18,
+        "median": 17.09,
+        "p75": 29.95,
+        "max": 65.64,
+        "mean": 20.22
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "mid century costume jewelry necklace",
+      "verdict": "HOLD",
+      "list_price": 9.99,
+      "list_price_low": 7.99,
+      "list_price_high": 7.99,
+      "max_buy_cost": 0.0,
+      "expected_net": 0.34,
+      "fee_at_list": 2.65,
+      "comp_basis": "sold",
+      "n_comps": 1,
+      "sold_stats": {
+        "n": 1,
+        "min": 7.99,
+        "p25": 7.99,
+        "median": 7.99,
+        "p75": 7.99,
+        "max": 7.99,
+        "mean": 7.99
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "silver tone necklace costume",
+      "verdict": "HOLD",
+      "list_price": 13.0,
+      "list_price_low": 9.99,
+      "list_price_high": 19.3,
+      "max_buy_cost": 0.0,
+      "expected_net": 2.9,
+      "fee_at_list": 3.1,
+      "comp_basis": "sold",
+      "n_comps": 162,
+      "sold_stats": {
+        "n": 162,
+        "min": 1.33,
+        "p25": 9.99,
+        "median": 13.0,
+        "p75": 19.3,
+        "max": 200.0,
+        "mean": 16.17
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "gold tone earrings fashion jewelry",
+      "verdict": "HOLD",
+      "list_price": 9.99,
+      "list_price_low": 4.99,
+      "list_price_high": 13.49,
+      "max_buy_cost": 0.0,
+      "expected_net": 0.34,
+      "fee_at_list": 2.65,
+      "comp_basis": "sold",
+      "n_comps": 81,
+      "sold_stats": {
+        "n": 81,
+        "min": 0.55,
+        "p25": 4.99,
+        "median": 8.39,
+        "p75": 13.49,
+        "max": 250.0,
+        "mean": 14.24
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "enamel brooch vintage costume",
+      "verdict": "HOLD",
+      "list_price": 12.72,
+      "list_price_low": 8.51,
+      "list_price_high": 18.99,
+      "max_buy_cost": 0.0,
+      "expected_net": 2.66,
+      "fee_at_list": 3.06,
+      "comp_basis": "sold",
+      "n_comps": 68,
+      "sold_stats": {
+        "n": 68,
+        "min": 0.99,
+        "p25": 8.51,
+        "median": 12.72,
+        "p75": 18.99,
+        "max": 88.0,
+        "mean": 15.48
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "mosaic pendant necklace vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 28.74,
+      "list_price_low": 19.99,
+      "list_price_high": 45.0,
+      "max_buy_cost": 12.28,
+      "expected_net": 16.28,
+      "fee_at_list": 5.46,
+      "comp_basis": "sold",
+      "n_comps": 92,
+      "sold_stats": {
+        "n": 92,
+        "min": 3.53,
+        "p25": 19.99,
+        "median": 28.74,
+        "p75": 45.0,
+        "max": 255.0,
+        "mean": 36.9
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "flower brooch rhinestone vintage",
+      "verdict": "HOLD",
+      "list_price": 16.0,
+      "list_price_low": 10.0,
+      "list_price_high": 24.71,
+      "max_buy_cost": 1.45,
+      "expected_net": 5.45,
+      "fee_at_list": 3.55,
+      "comp_basis": "sold",
+      "n_comps": 123,
+      "sold_stats": {
+        "n": 123,
+        "min": 2.25,
+        "p25": 10.0,
+        "median": 16.0,
+        "p75": 24.71,
+        "max": 149.54,
+        "mean": 22.68
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "butterfly brooch costume vintage",
+      "verdict": "LIST",
+      "list_price": 19.37,
+      "list_price_low": 9.38,
+      "list_price_high": 28.92,
+      "max_buy_cost": 4.31,
+      "expected_net": 8.31,
+      "fee_at_list": 4.06,
+      "comp_basis": "sold",
+      "n_comps": 22,
+      "sold_stats": {
+        "n": 22,
+        "min": 3.27,
+        "p25": 9.38,
+        "median": 19.37,
+        "p75": 28.92,
+        "max": 125.0,
+        "mean": 22.69
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "cat brooch costume jewelry",
+      "verdict": "HOLD",
+      "list_price": 14.99,
+      "list_price_low": 10.99,
+      "list_price_high": 20.25,
+      "max_buy_cost": 0.59,
+      "expected_net": 4.59,
+      "fee_at_list": 3.4,
+      "comp_basis": "sold",
+      "n_comps": 24,
+      "sold_stats": {
+        "n": 24,
+        "min": 5.99,
+        "p25": 10.99,
+        "median": 14.99,
+        "p75": 20.25,
+        "max": 200.93,
+        "mean": 30.59
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "heart necklace fashion jewelry",
+      "verdict": "HOLD",
+      "list_price": 9.99,
+      "list_price_low": 1.29,
+      "list_price_high": 6.18,
+      "max_buy_cost": 0.0,
+      "expected_net": 0.34,
+      "fee_at_list": 2.65,
+      "comp_basis": "sold",
+      "n_comps": 28,
+      "sold_stats": {
+        "n": 28,
+        "min": 0.55,
+        "p25": 1.29,
+        "median": 1.95,
+        "p75": 6.18,
+        "max": 15.0,
+        "mean": 4.51
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "cross necklace costume vintage",
+      "verdict": "HOLD",
+      "list_price": 15.99,
+      "list_price_low": 13.48,
+      "list_price_high": 22.5,
+      "max_buy_cost": 1.44,
+      "expected_net": 5.44,
+      "fee_at_list": 3.55,
+      "comp_basis": "sold",
+      "n_comps": 8,
+      "sold_stats": {
+        "n": 8,
+        "min": 9.89,
+        "p25": 13.48,
+        "median": 15.99,
+        "p75": 22.5,
+        "max": 29.99,
+        "mean": 17.17
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "moon necklace fashion jewelry",
+      "verdict": "HOLD",
+      "list_price": 9.99,
+      "list_price_low": 1.54,
+      "list_price_high": 16.99,
+      "max_buy_cost": 0.0,
+      "expected_net": 0.34,
+      "fee_at_list": 2.65,
+      "comp_basis": "sold",
+      "n_comps": 4,
+      "sold_stats": {
+        "n": 4,
+        "min": 0.8,
+        "p25": 1.54,
+        "median": 1.9,
+        "p75": 16.99,
+        "max": 16.99,
+        "mean": 5.39
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "layered necklace fashion jewelry",
+      "verdict": "HOLD",
+      "list_price": 9.99,
+      "list_price_low": 2.97,
+      "list_price_high": 12.5,
+      "max_buy_cost": 0.0,
+      "expected_net": 0.34,
+      "fee_at_list": 2.65,
+      "comp_basis": "sold",
+      "n_comps": 17,
+      "sold_stats": {
+        "n": 17,
+        "min": 1.04,
+        "p25": 2.97,
+        "median": 9.09,
+        "p75": 12.5,
+        "max": 29.0,
+        "mean": 9.4
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "collar necklace costume vintage",
+      "verdict": "LIST",
+      "list_price": 16.73,
+      "list_price_low": 12.59,
+      "list_price_high": 24.0,
+      "max_buy_cost": 2.07,
+      "expected_net": 6.07,
+      "fee_at_list": 3.66,
+      "comp_basis": "sold",
+      "n_comps": 36,
+      "sold_stats": {
+        "n": 36,
+        "min": 5.34,
+        "p25": 12.59,
+        "median": 16.73,
+        "p75": 24.0,
+        "max": 295.0,
+        "mean": 28.71
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "tennis bracelet costume fashion",
+      "verdict": "LIST",
+      "list_price": 21.34,
+      "list_price_low": 12.0,
+      "list_price_high": 35.08,
+      "max_buy_cost": 5.99,
+      "expected_net": 9.99,
+      "fee_at_list": 4.35,
+      "comp_basis": "active",
+      "n_comps": 57,
+      "sold_stats": {
+        "n": 0
+      },
+      "active_stats": {
+        "n": 57,
+        "min": 2.25,
+        "p25": 12.0,
+        "median": 22.0,
+        "p75": 35.08,
+        "max": 666.48,
+        "mean": 44.07
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "anklet fashion jewelry pre-owned",
+      "verdict": "HOLD",
+      "list_price": 10.67,
+      "list_price_low": 4.97,
+      "list_price_high": 22.33,
+      "max_buy_cost": 0.0,
+      "expected_net": 0.92,
+      "fee_at_list": 2.75,
+      "comp_basis": "active",
+      "n_comps": 51,
+      "sold_stats": {
+        "n": 0
+      },
+      "active_stats": {
+        "n": 49,
+        "min": 1.0,
+        "p25": 4.97,
+        "median": 11.0,
+        "p75": 22.33,
+        "max": 300.0,
+        "mean": 20.64
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "body chain fashion jewelry",
+      "verdict": "LIST",
+      "list_price": 19.39,
+      "list_price_low": 14.99,
+      "list_price_high": 38.0,
+      "max_buy_cost": 4.33,
+      "expected_net": 8.33,
+      "fee_at_list": 4.06,
+      "comp_basis": "active",
+      "n_comps": 58,
+      "sold_stats": {
+        "n": 0
+      },
+      "active_stats": {
+        "n": 58,
+        "min": 6.99,
+        "p25": 14.99,
+        "median": 19.99,
+        "p75": 38.0,
+        "max": 500.0,
+        "mean": 38.28
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "ear crawler fashion jewelry",
+      "verdict": "HOLD",
+      "list_price": 15.52,
+      "list_price_low": 10.0,
+      "list_price_high": 22.0,
+      "max_buy_cost": 1.04,
+      "expected_net": 5.04,
+      "fee_at_list": 3.48,
+      "comp_basis": "active",
+      "n_comps": 59,
+      "sold_stats": {
+        "n": 0
+      },
+      "active_stats": {
+        "n": 59,
+        "min": 3.99,
+        "p25": 10.0,
+        "median": 16.0,
+        "p75": 22.0,
+        "max": 92.65,
+        "mean": 19.45
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "trifari necklace vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 24.99,
+      "list_price_low": 14.41,
+      "list_price_high": 42.0,
+      "max_buy_cost": 9.09,
+      "expected_net": 13.09,
+      "fee_at_list": 4.9,
+      "comp_basis": "sold",
+      "n_comps": 121,
+      "sold_stats": {
+        "n": 121,
+        "min": 0.99,
+        "p25": 14.41,
+        "median": 24.99,
+        "p75": 42.0,
+        "max": 293.88,
+        "mean": 39.29
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "trifari earrings vintage",
+      "verdict": "LIST",
+      "list_price": 20.29,
+      "list_price_low": 11.24,
+      "list_price_high": 34.99,
+      "max_buy_cost": 5.1,
+      "expected_net": 9.1,
+      "fee_at_list": 4.19,
+      "comp_basis": "sold",
+      "n_comps": 102,
+      "sold_stats": {
+        "n": 102,
+        "min": 0.99,
+        "p25": 11.24,
+        "median": 20.29,
+        "p75": 34.99,
+        "max": 299.0,
+        "mean": 34.02
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "trifari bracelet vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 27.89,
+      "list_price_low": 15.0,
+      "list_price_high": 49.95,
+      "max_buy_cost": 11.56,
+      "expected_net": 15.56,
+      "fee_at_list": 5.33,
+      "comp_basis": "sold",
+      "n_comps": 38,
+      "sold_stats": {
+        "n": 38,
+        "min": 3.25,
+        "p25": 15.0,
+        "median": 27.89,
+        "p75": 49.95,
+        "max": 293.88,
+        "mean": 48.5
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "trifari brooch vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 29.99,
+      "list_price_low": 18.0,
+      "list_price_high": 49.99,
+      "max_buy_cost": 13.34,
+      "expected_net": 17.34,
+      "fee_at_list": 5.65,
+      "comp_basis": "sold",
+      "n_comps": 109,
+      "sold_stats": {
+        "n": 109,
+        "min": 3.0,
+        "p25": 18.0,
+        "median": 29.99,
+        "p75": 49.99,
+        "max": 650.0,
+        "mean": 50.02
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "trifari pendant vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 26.47,
+      "list_price_low": 12.99,
+      "list_price_high": 40.19,
+      "max_buy_cost": 10.35,
+      "expected_net": 14.35,
+      "fee_at_list": 5.12,
+      "comp_basis": "sold",
+      "n_comps": 30,
+      "sold_stats": {
+        "n": 30,
+        "min": 0.99,
+        "p25": 12.99,
+        "median": 26.47,
+        "p75": 40.19,
+        "max": 120.0,
+        "mean": 30.83
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "trifari ring vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 34.75,
+      "list_price_low": 22.25,
+      "list_price_high": 69.97,
+      "max_buy_cost": 17.39,
+      "expected_net": 21.39,
+      "fee_at_list": 6.36,
+      "comp_basis": "sold",
+      "n_comps": 53,
+      "sold_stats": {
+        "n": 53,
+        "min": 5.0,
+        "p25": 22.25,
+        "median": 34.75,
+        "p75": 69.97,
+        "max": 375.0,
+        "mean": 58.13
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "trifari choker vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 26.49,
+      "list_price_low": 14.0,
+      "list_price_high": 42.92,
+      "max_buy_cost": 10.37,
+      "expected_net": 14.37,
+      "fee_at_list": 5.12,
+      "comp_basis": "sold",
+      "n_comps": 22,
+      "sold_stats": {
+        "n": 22,
+        "min": 4.99,
+        "p25": 14.0,
+        "median": 26.49,
+        "p75": 42.92,
+        "max": 168.37,
+        "mean": 35.86
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "trifari bangle vintage",
+      "verdict": "LIST",
+      "list_price": 16.8,
+      "list_price_low": 10.99,
+      "list_price_high": 29.85,
+      "max_buy_cost": 2.13,
+      "expected_net": 6.13,
+      "fee_at_list": 3.67,
+      "comp_basis": "sold",
+      "n_comps": 103,
+      "sold_stats": {
+        "n": 103,
+        "min": 0.99,
+        "p25": 10.99,
+        "median": 16.8,
+        "p75": 29.85,
+        "max": 160.0,
+        "mean": 23.34
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "corocraft necklace vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 24.11,
+      "list_price_low": 15.5,
+      "list_price_high": 29.99,
+      "max_buy_cost": 8.34,
+      "expected_net": 12.34,
+      "fee_at_list": 4.77,
+      "comp_basis": "sold",
+      "n_comps": 25,
+      "sold_stats": {
+        "n": 25,
+        "min": 1.99,
+        "p25": 15.5,
+        "median": 24.11,
+        "p75": 29.99,
+        "max": 299.0,
+        "mean": 41.57
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "corocraft earrings vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 25.3,
+      "list_price_low": 15.5,
+      "list_price_high": 42.0,
+      "max_buy_cost": 9.35,
+      "expected_net": 13.35,
+      "fee_at_list": 4.95,
+      "comp_basis": "sold",
+      "n_comps": 24,
+      "sold_stats": {
+        "n": 24,
+        "min": 6.68,
+        "p25": 15.5,
+        "median": 25.3,
+        "p75": 42.0,
+        "max": 199.95,
+        "mean": 34.27
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "corocraft bracelet vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 30.4,
+      "list_price_low": 24.0,
+      "list_price_high": 101.25,
+      "max_buy_cost": 13.69,
+      "expected_net": 17.69,
+      "fee_at_list": 5.71,
+      "comp_basis": "sold",
+      "n_comps": 11,
+      "sold_stats": {
+        "n": 11,
+        "min": 15.5,
+        "p25": 24.0,
+        "median": 30.4,
+        "p75": 101.25,
+        "max": 299.0,
+        "mean": 78.28
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "corocraft brooch vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 39.99,
+      "list_price_low": 10.0,
+      "list_price_high": 64.0,
+      "max_buy_cost": 21.84,
+      "expected_net": 25.84,
+      "fee_at_list": 7.15,
+      "comp_basis": "sold",
+      "n_comps": 63,
+      "sold_stats": {
+        "n": 63,
+        "min": 0.99,
+        "p25": 10.0,
+        "median": 39.99,
+        "p75": 64.0,
+        "max": 385.0,
+        "mean": 64.15
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "corocraft pendant vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 39.99,
+      "list_price_low": 7.5,
+      "list_price_high": 90.0,
+      "max_buy_cost": 21.84,
+      "expected_net": 25.84,
+      "fee_at_list": 7.15,
+      "comp_basis": "sold",
+      "n_comps": 3,
+      "sold_stats": {
+        "n": 3,
+        "min": 7.5,
+        "p25": 7.5,
+        "median": 39.99,
+        "p75": 90.0,
+        "max": 90.0,
+        "mean": 45.83
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "corocraft ring vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 56.72,
+      "list_price_low": 25.0,
+      "list_price_high": 145.0,
+      "max_buy_cost": 36.06,
+      "expected_net": 40.06,
+      "fee_at_list": 9.66,
+      "comp_basis": "active",
+      "n_comps": 80,
+      "sold_stats": {
+        "n": 0
+      },
+      "active_stats": {
+        "n": 80,
+        "min": 1.0,
+        "p25": 25.0,
+        "median": 58.47,
+        "p75": 145.0,
+        "max": 624.99,
+        "mean": 122.29
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "corocraft choker vintage",
+      "verdict": "HOLD",
+      "list_price": 9.99,
+      "list_price_low": 6.39,
+      "list_price_high": 21.43,
+      "max_buy_cost": 0.0,
+      "expected_net": 0.34,
+      "fee_at_list": 2.65,
+      "comp_basis": "sold",
+      "n_comps": 4,
+      "sold_stats": {
+        "n": 4,
+        "min": 1.99,
+        "p25": 6.39,
+        "median": 6.95,
+        "p75": 21.43,
+        "max": 21.43,
+        "mean": 9.33
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "corocraft bangle vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 77.5,
+      "list_price_low": 77.5,
+      "list_price_high": 77.5,
+      "max_buy_cost": 50.55,
+      "expected_net": 57.72,
+      "fee_at_list": 12.78,
+      "comp_basis": "sold",
+      "n_comps": 1,
+      "sold_stats": {
+        "n": 1,
+        "min": 77.5,
+        "p25": 77.5,
+        "median": 77.5,
+        "p75": 77.5,
+        "max": 77.5,
+        "mean": 77.5
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "weiss necklace vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 39.54,
+      "list_price_low": 25.0,
+      "list_price_high": 71.49,
+      "max_buy_cost": 21.46,
+      "expected_net": 25.46,
+      "fee_at_list": 7.08,
+      "comp_basis": "sold",
+      "n_comps": 120,
+      "sold_stats": {
+        "n": 120,
+        "min": 6.0,
+        "p25": 25.0,
+        "median": 39.54,
+        "p75": 71.49,
+        "max": 349.0,
+        "mean": 58.09
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "weiss earrings vintage",
+      "verdict": "LIST",
+      "list_price": 21.7,
+      "list_price_low": 12.0,
+      "list_price_high": 29.0,
+      "max_buy_cost": 6.29,
+      "expected_net": 10.29,
+      "fee_at_list": 4.41,
+      "comp_basis": "sold",
+      "n_comps": 11,
+      "sold_stats": {
+        "n": 11,
+        "min": 5.0,
+        "p25": 12.0,
+        "median": 21.7,
+        "p75": 29.0,
+        "max": 55.0,
+        "mean": 23.25
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "weiss bracelet vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 40.0,
+      "list_price_low": 24.99,
+      "list_price_high": 68.0,
+      "max_buy_cost": 21.85,
+      "expected_net": 25.85,
+      "fee_at_list": 7.15,
+      "comp_basis": "sold",
+      "n_comps": 123,
+      "sold_stats": {
+        "n": 123,
+        "min": 0.99,
+        "p25": 24.99,
+        "median": 40.0,
+        "p75": 68.0,
+        "max": 250.0,
+        "mean": 53.14
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "weiss brooch vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 33.0,
+      "list_price_low": 21.95,
+      "list_price_high": 56.0,
+      "max_buy_cost": 15.9,
+      "expected_net": 19.9,
+      "fee_at_list": 6.1,
+      "comp_basis": "sold",
+      "n_comps": 143,
+      "sold_stats": {
+        "n": 143,
+        "min": 4.25,
+        "p25": 21.95,
+        "median": 33.0,
+        "p75": 56.0,
+        "max": 250.0,
+        "mean": 43.0
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "weiss pendant vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 29.99,
+      "list_price_low": 25.0,
+      "list_price_high": 64.99,
+      "max_buy_cost": 13.34,
+      "expected_net": 17.34,
+      "fee_at_list": 5.65,
+      "comp_basis": "sold",
+      "n_comps": 10,
+      "sold_stats": {
+        "n": 10,
+        "min": 5.99,
+        "p25": 25.0,
+        "median": 29.99,
+        "p75": 64.99,
+        "max": 148.0,
+        "mean": 45.07
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "weiss ring vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 68.8,
+      "list_price_low": 3.0,
+      "list_price_high": 140.0,
+      "max_buy_cost": 44.87,
+      "expected_net": 50.33,
+      "fee_at_list": 11.47,
+      "comp_basis": "sold",
+      "n_comps": 14,
+      "sold_stats": {
+        "n": 14,
+        "min": 1.0,
+        "p25": 3.0,
+        "median": 68.8,
+        "p75": 140.0,
+        "max": 572.0,
+        "mean": 119.37
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "weiss choker vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 35.91,
+      "list_price_low": 26.0,
+      "list_price_high": 64.95,
+      "max_buy_cost": 18.37,
+      "expected_net": 22.37,
+      "fee_at_list": 6.54,
+      "comp_basis": "sold",
+      "n_comps": 45,
+      "sold_stats": {
+        "n": 45,
+        "min": 12.95,
+        "p25": 26.0,
+        "median": 35.91,
+        "p75": 64.95,
+        "max": 174.99,
+        "mean": 49.62
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "weiss bangle vintage",
+      "verdict": "STRONG_LIST",
+      "list_price": 45.0,
+      "list_price_low": 26.0,
+      "list_price_high": 45.6,
+      "max_buy_cost": 26.1,
+      "expected_net": 30.1,
+      "fee_at_list": 7.9,
+      "comp_basis": "sold",
+      "n_comps": 5,
+      "sold_stats": {
+        "n": 5,
+        "min": 19.99,
+        "p25": 26.0,
+        "median": 45.0,
+        "p75": 45.6,
+        "max": 89.0,
+        "mean": 45.12
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "sarah coventry necklace vintage",
+      "verdict": "HOLD",
+      "list_price": 14.21,
+      "list_price_low": 8.4,
+      "list_price_high": 19.99,
+      "max_buy_cost": 0.0,
+      "expected_net": 3.93,
+      "fee_at_list": 3.28,
+      "comp_basis": "sold",
+      "n_comps": 68,
+      "sold_stats": {
+        "n": 68,
+        "min": 0.99,
+        "p25": 8.4,
+        "median": 14.21,
+        "p75": 19.99,
+        "max": 36.0,
+        "mean": 14.67
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "sarah coventry earrings vintage",
+      "verdict": "HOLD",
+      "list_price": 12.99,
+      "list_price_low": 7.5,
+      "list_price_high": 16.99,
+      "max_buy_cost": 0.0,
+      "expected_net": 2.89,
+      "fee_at_list": 3.1,
+      "comp_basis": "sold",
+      "n_comps": 21,
+      "sold_stats": {
+        "n": 21,
+        "min": 2.69,
+        "p25": 7.5,
+        "median": 12.99,
+        "p75": 16.99,
+        "max": 21.99,
+        "mean": 12.2
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "sarah coventry bracelet vintage",
+      "verdict": "HOLD",
+      "list_price": 14.99,
+      "list_price_low": 9.5,
+      "list_price_high": 20.0,
+      "max_buy_cost": 0.59,
+      "expected_net": 4.59,
+      "fee_at_list": 3.4,
+      "comp_basis": "sold",
+      "n_comps": 27,
+      "sold_stats": {
+        "n": 27,
+        "min": 3.03,
+        "p25": 9.5,
+        "median": 14.99,
+        "p75": 20.0,
+        "max": 25.39,
+        "mean": 14.64
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    }
+  ],
+  "verdict_tally": {
+    "HOLD": 29,
+    "LIST": 11,
+    "STRONG_LIST": 24
+  },
+  "sources": [
+    "ebay"
+  ],
+  "sold_dataset_path": "/data/datasets/sold_preowned_20260920T001611Z.jsonl",
+  "sold_rows": 3436,
+  "priced_sold_rows": 3436
+}
