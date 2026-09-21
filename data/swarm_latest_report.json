@@ -1,0 +1,352 @@
+{
+  "generated_at": "2026-09-21T00:49:03.424385+00:00",
+  "system": "jewelry-full-swarm-sandbox-v2",
+  "modal_techniques": [
+    "sandbox_v2",
+    "named_image",
+    "volume_shared",
+    "secrets",
+    "function_map",
+    "isolated_egress_per_query"
+  ],
+  "queries": [
+    "fashion jewelry necklace pre-owned",
+    "costume jewelry earrings vintage",
+    "boho necklace fashion jewelry",
+    "statement necklace costume jewelry",
+    "rhinestone bracelet vintage",
+    "vintage brooch costume jewelry",
+    "clip on earrings vintage costume",
+    "fashion ring costume jewelry",
+    "chunky necklace vintage costume",
+    "beaded necklace boho vintage",
+    "turquoise necklace fashion jewelry",
+    "pearl necklace costume vintage"
+  ],
+  "cost_basis": 8.0,
+  "total_rows": 674,
+  "sold_stats": {
+    "n": 674,
+    "min": 0.55,
+    "p25": 9.99,
+    "median": 15.95,
+    "p75": 25.0,
+    "max": 304.0,
+    "mean": 24.53
+  },
+  "active_stats": {
+    "n": 0
+  },
+  "decisions": [
+    {
+      "query": "fashion jewelry necklace pre-owned",
+      "verdict": "HOLD",
+      "list_price": 9.99,
+      "list_price_low": 8.0,
+      "list_price_high": 9.99,
+      "max_buy_cost": 0.0,
+      "expected_net": 0.34,
+      "fee_at_list": 2.65,
+      "comp_basis": "sold",
+      "n_comps": 5,
+      "sold_stats": {
+        "n": 5,
+        "min": 6.99,
+        "p25": 8.0,
+        "median": 8.99,
+        "p75": 9.99,
+        "max": 9.99,
+        "mean": 8.79
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "costume jewelry earrings vintage",
+      "verdict": "LIST",
+      "list_price": 17.36,
+      "list_price_low": 14.36,
+      "list_price_high": 24.99,
+      "max_buy_cost": 2.61,
+      "expected_net": 6.61,
+      "fee_at_list": 3.75,
+      "comp_basis": "sold",
+      "n_comps": 40,
+      "sold_stats": {
+        "n": 40,
+        "min": 7.49,
+        "p25": 14.36,
+        "median": 17.36,
+        "p75": 24.99,
+        "max": 123.14,
+        "mean": 21.58
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "boho necklace fashion jewelry",
+      "verdict": "HOLD",
+      "list_price": 12.5,
+      "list_price_low": 9.0,
+      "list_price_high": 22.39,
+      "max_buy_cost": 0.0,
+      "expected_net": 2.48,
+      "fee_at_list": 3.02,
+      "comp_basis": "sold",
+      "n_comps": 26,
+      "sold_stats": {
+        "n": 26,
+        "min": 2.25,
+        "p25": 9.0,
+        "median": 12.5,
+        "p75": 22.39,
+        "max": 50.0,
+        "mean": 16.09
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "statement necklace costume jewelry",
+      "verdict": "HOLD",
+      "list_price": 14.0,
+      "list_price_low": 9.99,
+      "list_price_high": 20.0,
+      "max_buy_cost": 0.0,
+      "expected_net": 3.75,
+      "fee_at_list": 3.25,
+      "comp_basis": "sold",
+      "n_comps": 50,
+      "sold_stats": {
+        "n": 50,
+        "min": 4.4,
+        "p25": 9.99,
+        "median": 14.0,
+        "p75": 20.0,
+        "max": 70.0,
+        "mean": 17.21
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "rhinestone bracelet vintage",
+      "verdict": "LIST",
+      "list_price": 20.04,
+      "list_price_low": 12.0,
+      "list_price_high": 39.68,
+      "max_buy_cost": 4.88,
+      "expected_net": 8.88,
+      "fee_at_list": 4.16,
+      "comp_basis": "sold",
+      "n_comps": 238,
+      "sold_stats": {
+        "n": 238,
+        "min": 2.68,
+        "p25": 12.0,
+        "median": 20.04,
+        "p75": 39.68,
+        "max": 304.0,
+        "mean": 35.57
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "vintage brooch costume jewelry",
+      "verdict": "HOLD",
+      "list_price": 15.1,
+      "list_price_low": 12.0,
+      "list_price_high": 21.25,
+      "max_buy_cost": 0.68,
+      "expected_net": 4.68,
+      "fee_at_list": 3.42,
+      "comp_basis": "sold",
+      "n_comps": 48,
+      "sold_stats": {
+        "n": 48,
+        "min": 3.57,
+        "p25": 12.0,
+        "median": 15.1,
+        "p75": 21.25,
+        "max": 103.37,
+        "mean": 18.83
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "clip on earrings vintage costume",
+      "verdict": "HOLD",
+      "list_price": 13.99,
+      "list_price_low": 7.99,
+      "list_price_high": 21.08,
+      "max_buy_cost": 0.0,
+      "expected_net": 3.74,
+      "fee_at_list": 3.25,
+      "comp_basis": "sold",
+      "n_comps": 29,
+      "sold_stats": {
+        "n": 29,
+        "min": 5.29,
+        "p25": 7.99,
+        "median": 13.99,
+        "p75": 21.08,
+        "max": 123.14,
+        "mean": 18.14
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "fashion ring costume jewelry",
+      "verdict": "HOLD",
+      "list_price": 9.99,
+      "list_price_low": 5.0,
+      "list_price_high": 14.99,
+      "max_buy_cost": 0.0,
+      "expected_net": 0.34,
+      "fee_at_list": 2.65,
+      "comp_basis": "sold",
+      "n_comps": 16,
+      "sold_stats": {
+        "n": 16,
+        "min": 0.55,
+        "p25": 5.0,
+        "median": 9.99,
+        "p75": 14.99,
+        "max": 33.39,
+        "mean": 11.44
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "chunky necklace vintage costume",
+      "verdict": "HOLD",
+      "list_price": 16.04,
+      "list_price_low": 11.99,
+      "list_price_high": 22.49,
+      "max_buy_cost": 1.48,
+      "expected_net": 5.48,
+      "fee_at_list": 3.56,
+      "comp_basis": "sold",
+      "n_comps": 48,
+      "sold_stats": {
+        "n": 48,
+        "min": 3.26,
+        "p25": 11.99,
+        "median": 16.04,
+        "p75": 22.49,
+        "max": 98.0,
+        "mean": 20.08
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "beaded necklace boho vintage",
+      "verdict": "HOLD",
+      "list_price": 15.57,
+      "list_price_low": 10.94,
+      "list_price_high": 24.0,
+      "max_buy_cost": 1.08,
+      "expected_net": 5.08,
+      "fee_at_list": 3.49,
+      "comp_basis": "sold",
+      "n_comps": 76,
+      "sold_stats": {
+        "n": 76,
+        "min": 0.55,
+        "p25": 10.94,
+        "median": 15.57,
+        "p75": 24.0,
+        "max": 71.0,
+        "mean": 18.24
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "turquoise necklace fashion jewelry",
+      "verdict": "LIST",
+      "list_price": 19.37,
+      "list_price_low": 10.0,
+      "list_price_high": 24.5,
+      "max_buy_cost": 4.31,
+      "expected_net": 8.31,
+      "fee_at_list": 4.06,
+      "comp_basis": "sold",
+      "n_comps": 14,
+      "sold_stats": {
+        "n": 14,
+        "min": 3.99,
+        "p25": 10.0,
+        "median": 19.37,
+        "p75": 24.5,
+        "max": 139.95,
+        "mean": 26.28
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "pearl necklace costume vintage",
+      "verdict": "HOLD",
+      "list_price": 12.5,
+      "list_price_low": 7.99,
+      "list_price_high": 19.95,
+      "max_buy_cost": 0.0,
+      "expected_net": 2.48,
+      "fee_at_list": 3.02,
+      "comp_basis": "sold",
+      "n_comps": 84,
+      "sold_stats": {
+        "n": 84,
+        "min": 0.99,
+        "p25": 7.99,
+        "median": 12.5,
+        "p75": 19.95,
+        "max": 214.48,
+        "mean": 18.48
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    }
+  ],
+  "verdict_tally": {
+    "HOLD": 9,
+    "LIST": 3
+  },
+  "sources": [
+    "ebay"
+  ],
+  "sold_dataset_path": "/data/datasets/sold_preowned_20260921T004903Z.jsonl",
+  "sold_rows": 674,
+  "priced_sold_rows": 674
+}
