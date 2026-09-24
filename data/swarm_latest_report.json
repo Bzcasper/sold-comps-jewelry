@@ -1,0 +1,150 @@
+{
+  "generated_at": "2026-09-24T17:59:41.347446+00:00",
+  "system": "jewelry-full-swarm-sandbox-v2",
+  "modal_techniques": [
+    "sandbox_v2",
+    "named_image",
+    "volume_shared",
+    "secrets",
+    "function_map",
+    "isolated_egress_per_query"
+  ],
+  "queries": [
+    "fashion jewelry necklace pre-owned",
+    "costume jewelry earrings vintage",
+    "boho necklace fashion jewelry",
+    "statement necklace costume jewelry"
+  ],
+  "cost_basis": 8.0,
+  "total_rows": 97,
+  "sold_stats": {
+    "n": 79,
+    "min": 2.25,
+    "p25": 9.95,
+    "median": 12.0,
+    "p75": 19.99,
+    "max": 70.0,
+    "mean": 15.65
+  },
+  "active_stats": {
+    "n": 18,
+    "min": 6.0,
+    "p25": 15.0,
+    "median": 23.49,
+    "p75": 80.0,
+    "max": 275.99,
+    "mean": 70.55
+  },
+  "decisions": [
+    {
+      "query": "fashion jewelry necklace pre-owned",
+      "verdict": "HOLD",
+      "list_price": 9.99,
+      "list_price_low": 8.99,
+      "list_price_high": 9.99,
+      "max_buy_cost": 0.0,
+      "expected_net": 0.34,
+      "fee_at_list": 2.65,
+      "comp_basis": "sold",
+      "n_comps": 4,
+      "sold_stats": {
+        "n": 4,
+        "min": 6.99,
+        "p25": 8.99,
+        "median": 9.49,
+        "p75": 9.99,
+        "max": 9.99,
+        "mean": 8.99
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "costume jewelry earrings vintage",
+      "verdict": "LIST",
+      "list_price": 22.79,
+      "list_price_low": 15.0,
+      "list_price_high": 80.0,
+      "max_buy_cost": 7.22,
+      "expected_net": 11.22,
+      "fee_at_list": 4.57,
+      "comp_basis": "active",
+      "n_comps": 18,
+      "sold_stats": {
+        "n": 0
+      },
+      "active_stats": {
+        "n": 18,
+        "min": 6.0,
+        "p25": 15.0,
+        "median": 23.49,
+        "p75": 80.0,
+        "max": 275.99,
+        "mean": 70.55
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "boho necklace fashion jewelry",
+      "verdict": "HOLD",
+      "list_price": 13.01,
+      "list_price_low": 9.09,
+      "list_price_high": 22.39,
+      "max_buy_cost": 0.0,
+      "expected_net": 2.91,
+      "fee_at_list": 3.1,
+      "comp_basis": "sold",
+      "n_comps": 25,
+      "sold_stats": {
+        "n": 25,
+        "min": 2.25,
+        "p25": 9.09,
+        "median": 13.01,
+        "p75": 22.39,
+        "max": 37.87,
+        "mean": 15.9
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
+      "query": "statement necklace costume jewelry",
+      "verdict": "HOLD",
+      "list_price": 12.0,
+      "list_price_low": 9.99,
+      "list_price_high": 18.99,
+      "max_buy_cost": 0.0,
+      "expected_net": 2.05,
+      "fee_at_list": 2.95,
+      "comp_basis": "sold",
+      "n_comps": 50,
+      "sold_stats": {
+        "n": 50,
+        "min": 4.4,
+        "p25": 9.99,
+        "median": 12.0,
+        "p75": 18.99,
+        "max": 70.0,
+        "mean": 16.06
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    }
+  ],
+  "verdict_tally": {
+    "HOLD": 3,
+    "LIST": 1
+  },
+  "sources": [
+    "ebay"
+  ],
+  "sold_dataset_path": "/data/datasets/sold_preowned_20260924T175941Z.jsonl",
+  "sold_rows": 79,
+  "priced_sold_rows": 79
+}
