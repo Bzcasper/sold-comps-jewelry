@@ -1,169 +1,80 @@
 {
-  "generated_at": "2026-09-18T14:05:46Z",
-  "scope": "pre-owned non-fine / costume / fashion / gold-filled / sterling fashion",
-  "total_items": 0,
-  "queries_run": 20,
-  "tier_stats": {},
-  "per_query": [
-    {
-      "query": "costume jewelry brooch pre-owned",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
+  "generated_at": "2026-10-08T07:58:59.313000+00:00",
+  "total_rows": 72,
+  "sold_stats": {
+    "n": 0
+  },
+  "active_stats": {
+    "n": 72,
+    "min": 1.0,
+    "p25": 17.0,
+    "median": 32.48,
+    "p75": 71.2,
+    "max": 650.0,
+    "mean": 68.91
+  },
+  "by_query": {
+    "monet jewelry set vintage": {
+      "sold": {
+        "n": 0
+      },
+      "active": {
+        "n": 24,
+        "min": 11.22,
+        "p25": 29.99,
+        "median": 42.5,
+        "p75": 79.99,
+        "max": 224.99,
+        "mean": 66.19
+      },
+      "n_rows": 24
     },
-    {
-      "query": "costume jewelry necklace estate",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
+    "sarah coventry brooch": {
+      "sold": {
+        "n": 0
+      },
+      "active": {
+        "n": 24,
+        "min": 1.0,
+        "p25": 12.5,
+        "median": 16.49,
+        "p75": 29.99,
+        "max": 59.99,
+        "mean": 21.88
+      },
+      "n_rows": 24
     },
-    {
-      "query": "gold filled necklace pre-owned",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "gold filled bracelet estate",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "sterling silver fashion ring pre-owned",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "sterling brooch vintage costume",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "trifari brooch pre-owned",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "monet necklace vintage",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "corocraft brooch",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "beaded necklace vintage pre-owned",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "pearl necklace costume fashion",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "earrings gold filled pre-owned",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "vintage lucite bracelet",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "enamel brooch vintage",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "rhinestone brooch costume",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "cameo brooch pre-owned",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "charm bracelet vintage costume",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "no_items_parsed"
-    },
-    {
-      "query": "fashion jewelry lot estate",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "signed costume jewelry",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
-    },
-    {
-      "query": "sarah coventry brooch",
-      "method": "ebay_http",
-      "fetched": 0,
-      "kept_non_fine": 0,
-      "dropped_fine": 0,
-      "error": "ebay_signin_wall"
+    "vintage rhinestone bracelet": {
+      "sold": {
+        "n": 0
+      },
+      "active": {
+        "n": 24,
+        "min": 2.25,
+        "p25": 25.0,
+        "median": 57.5,
+        "p75": 163.0,
+        "max": 650.0,
+        "mean": 118.66
+      },
+      "n_rows": 24
     }
+  },
+  "sources": [
+    "ebay_active_stealth"
+  ],
+  "note": "sale_type=sold are true completed sales (API). sale_type=active are current asking prices from stealth eBay browse. Use sold for comps; active for market depth / list-price bands.",
+  "backend_tally": {
+    "ebay_active_stealth": 3
+  },
+  "queries": [
+    "vintage costume jewelry brooch lot",
+    "signed costume jewelry necklace",
+    "vintage bakelite bangle",
+    "corocraft brooch",
+    "trifari necklace vintage",
+    "monet jewelry set vintage",
+    "sarah coventry brooch",
+    "vintage rhinestone bracelet"
   ]
 }
