@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:19:47.192949+00:00",
+  "generated_at": "2026-10-10T07:16:09.503131+00:00",
   "system": "jewelry-full-swarm-sandbox-v2",
   "modal_techniques": [
     "sandbox_v2",
@@ -20,24 +20,18 @@
     "fashion ring costume jewelry"
   ],
   "cost_basis": 8.0,
-  "total_rows": 737,
+  "total_rows": 302,
   "sold_stats": {
-    "n": 677,
+    "n": 302,
     "min": 0.55,
-    "p25": 8.1,
-    "median": 13.77,
-    "p75": 24.64,
-    "max": 200.0,
-    "mean": 20.66
+    "p25": 9.95,
+    "median": 14.95,
+    "p75": 21.5,
+    "max": 125.0,
+    "mean": 18.09
   },
   "active_stats": {
-    "n": 60,
-    "min": 1.29,
-    "p25": 19.99,
-    "median": 27.49,
-    "p75": 48.0,
-    "max": 484.19,
-    "mean": 56.81
+    "n": 0
   },
   "decisions": [
     {
@@ -67,23 +61,23 @@
     },
     {
       "query": "costume jewelry earrings vintage",
-      "verdict": "HOLD",
-      "list_price": 15.0,
-      "list_price_low": 8.5,
-      "list_price_high": 25.0,
-      "max_buy_cost": 0.6,
-      "expected_net": 4.6,
-      "fee_at_list": 3.4,
+      "verdict": "LIST",
+      "list_price": 16.99,
+      "list_price_low": 12.5,
+      "list_price_high": 24.69,
+      "max_buy_cost": 2.29,
+      "expected_net": 6.29,
+      "fee_at_list": 3.7,
       "comp_basis": "sold",
-      "n_comps": 353,
+      "n_comps": 39,
       "sold_stats": {
-        "n": 353,
-        "min": 0.99,
-        "p25": 8.5,
-        "median": 15.0,
-        "p75": 25.0,
-        "max": 200.0,
-        "mean": 22.93
+        "n": 39,
+        "min": 5.99,
+        "p25": 12.5,
+        "median": 16.99,
+        "p75": 24.69,
+        "max": 36.0,
+        "mean": 18.1
       },
       "active_stats": {
         "n": 0
@@ -92,23 +86,23 @@
     },
     {
       "query": "boho necklace fashion jewelry",
-      "verdict": "HOLD",
-      "list_price": 12.0,
+      "verdict": "LIST",
+      "list_price": 16.99,
       "list_price_low": 9.09,
-      "list_price_high": 19.99,
-      "max_buy_cost": 0.0,
-      "expected_net": 2.05,
-      "fee_at_list": 2.95,
+      "list_price_high": 24.99,
+      "max_buy_cost": 2.29,
+      "expected_net": 6.29,
+      "fee_at_list": 3.7,
       "comp_basis": "sold",
-      "n_comps": 17,
+      "n_comps": 23,
       "sold_stats": {
-        "n": 17,
+        "n": 23,
         "min": 2.25,
         "p25": 9.09,
-        "median": 12.0,
-        "p75": 19.99,
-        "max": 25.0,
-        "mean": 14.57
+        "median": 16.99,
+        "p75": 24.99,
+        "max": 37.87,
+        "mean": 17.16
       },
       "active_stats": {
         "n": 0
@@ -118,22 +112,22 @@
     {
       "query": "statement necklace costume jewelry",
       "verdict": "HOLD",
-      "list_price": 14.2,
+      "list_price": 13.91,
       "list_price_low": 9.99,
-      "list_price_high": 20.0,
+      "list_price_high": 18.0,
       "max_buy_cost": 0.0,
-      "expected_net": 3.92,
-      "fee_at_list": 3.28,
+      "expected_net": 3.67,
+      "fee_at_list": 3.24,
       "comp_basis": "sold",
-      "n_comps": 72,
+      "n_comps": 66,
       "sold_stats": {
-        "n": 72,
+        "n": 66,
         "min": 0.99,
         "p25": 9.99,
-        "median": 14.2,
-        "p75": 20.0,
+        "median": 13.91,
+        "p75": 18.0,
         "max": 58.79,
-        "mean": 17.02
+        "mean": 15.79
       },
       "active_stats": {
         "n": 0
@@ -142,31 +136,6 @@
     },
     {
       "query": "rhinestone bracelet vintage",
-      "verdict": "STRONG_LIST",
-      "list_price": 26.67,
-      "list_price_low": 19.99,
-      "list_price_high": 48.0,
-      "max_buy_cost": 10.52,
-      "expected_net": 14.52,
-      "fee_at_list": 5.15,
-      "comp_basis": "active",
-      "n_comps": 60,
-      "sold_stats": {
-        "n": 0
-      },
-      "active_stats": {
-        "n": 60,
-        "min": 1.29,
-        "p25": 19.99,
-        "median": 27.49,
-        "p75": 48.0,
-        "max": 484.19,
-        "mean": 56.81
-      },
-      "cost_basis": 8.0
-    },
-    {
-      "query": "vintage brooch costume jewelry",
       "verdict": "RESEARCH_ONLY",
       "list_price": null,
       "max_buy_cost": null,
@@ -181,24 +150,49 @@
       "priced_n": 0
     },
     {
+      "query": "vintage brooch costume jewelry",
+      "verdict": "HOLD",
+      "list_price": 14.99,
+      "list_price_low": 9.99,
+      "list_price_high": 24.99,
+      "max_buy_cost": 0.59,
+      "expected_net": 4.59,
+      "fee_at_list": 3.4,
+      "comp_basis": "sold",
+      "n_comps": 120,
+      "sold_stats": {
+        "n": 120,
+        "min": 0.99,
+        "p25": 9.99,
+        "median": 14.99,
+        "p75": 24.99,
+        "max": 125.0,
+        "mean": 21.62
+      },
+      "active_stats": {
+        "n": 0
+      },
+      "cost_basis": 8.0
+    },
+    {
       "query": "clip on earrings vintage costume",
       "verdict": "HOLD",
-      "list_price": 11.99,
-      "list_price_low": 7.27,
-      "list_price_high": 20.99,
+      "list_price": 14.18,
+      "list_price_low": 7.99,
+      "list_price_high": 21.08,
       "max_buy_cost": 0.0,
-      "expected_net": 2.04,
-      "fee_at_list": 2.95,
+      "expected_net": 3.9,
+      "fee_at_list": 3.28,
       "comp_basis": "sold",
-      "n_comps": 215,
+      "n_comps": 32,
       "sold_stats": {
-        "n": 215,
-        "min": 0.99,
-        "p25": 7.27,
-        "median": 11.99,
-        "p75": 20.99,
-        "max": 199.5,
-        "mean": 19.4
+        "n": 32,
+        "min": 2.63,
+        "p25": 7.99,
+        "median": 14.18,
+        "p75": 21.08,
+        "max": 36.0,
+        "mean": 14.84
       },
       "active_stats": {
         "n": 0
@@ -209,21 +203,21 @@
       "query": "fashion ring costume jewelry",
       "verdict": "HOLD",
       "list_price": 9.99,
-      "list_price_low": 5.0,
-      "list_price_high": 17.59,
+      "list_price_low": 3.0,
+      "list_price_high": 17.39,
       "max_buy_cost": 0.0,
       "expected_net": 0.34,
       "fee_at_list": 2.65,
       "comp_basis": "sold",
-      "n_comps": 16,
+      "n_comps": 18,
       "sold_stats": {
-        "n": 16,
+        "n": 18,
         "min": 0.55,
-        "p25": 5.0,
-        "median": 9.99,
-        "p75": 17.59,
-        "max": 49.99,
-        "mean": 13.4
+        "p25": 3.0,
+        "median": 9.25,
+        "p75": 17.39,
+        "max": 34.25,
+        "mean": 11.97
       },
       "active_stats": {
         "n": 0
@@ -232,14 +226,14 @@
     }
   ],
   "verdict_tally": {
-    "HOLD": 6,
-    "STRONG_LIST": 1,
+    "HOLD": 5,
+    "LIST": 2,
     "RESEARCH_ONLY": 1
   },
   "sources": [
     "ebay"
   ],
-  "sold_dataset_path": "/data/datasets/sold_preowned_20260925T111947Z.jsonl",
-  "sold_rows": 677,
-  "priced_sold_rows": 677
+  "sold_dataset_path": "/data/datasets/sold_preowned_20261010T071609Z.jsonl",
+  "sold_rows": 302,
+  "priced_sold_rows": 302
 }
